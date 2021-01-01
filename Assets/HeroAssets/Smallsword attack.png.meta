@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: d797ea98ee751604abfe50b177a5fb46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4025614662032628674
+    second: Smallsword attack_0
+  - first:
+      213: 5901507718800601434
+    second: Smallsword attack_1
+  - first:
+      213: -7380766345746929974
+    second: Smallsword attack_2
+  - first:
+      213: -6279581546615446971
+    second: Smallsword attack_3
+  - first:
+      213: -1379239932659610203
+    second: Smallsword attack_4
+  - first:
+      213: 1082540748954964198
+    second: Smallsword attack_5
+  - first:
+      213: 309968418232760954
+    second: Smallsword attack_6
+  - first:
+      213: -1863190744367034131
+    second: Smallsword attack_7
+  - first:
+      213: -5371261153255203440
+    second: Smallsword attack_8
+  - first:
+      213: 3961953977380900797
+    second: Smallsword attack_9
+  - first:
+      213: -5969297355600671356
+    second: Smallsword attack_10
+  - first:
+      213: -4097368104217278206
+    second: Smallsword attack_11
+  - first:
+      213: -2584393395850295300
+    second: Smallsword attack_12
+  - first:
+      213: 2894629584326256006
+    second: Smallsword attack_13
+  - first:
+      213: 4375701925966131202
+    second: Smallsword attack_14
+  - first:
+      213: -9079492847007723718
+    second: Smallsword attack_15
+  - first:
+      213: -6442665479132440327
+    second: Smallsword attack_16
+  - first:
+      213: -7748460248681406481
+    second: Smallsword attack_17
+  - first:
+      213: 7335892595633644819
+    second: Smallsword attack_18
+  - first:
+      213: 3080213061203777183
+    second: Smallsword attack_19
+  - first:
+      213: 7744456834216889319
+    second: Smallsword attack_20
+  - first:
+      213: -3072436558898993778
+    second: Smallsword attack_4
+  - first:
+      213: -6610159150097315315
+    second: Smallsword attack_0
+  - first:
+      213: 112839880975168019
+    second: Smallsword attack_1
+  - first:
+      213: 9048773819361048490
+    second: Smallsword attack_2
+  - first:
+      213: 7880843605999370262
+    second: Smallsword attack_3
+  - first:
+      213: 6701334053725442690
+    second: Smallsword attack_5
+  - first:
+      213: 4447548281959715593
+    second: Smallsword attack_7
+  - first:
+      213: 1701882229461220736
+    second: Smallsword attack_9
+  - first:
+      213: -8701072727920958606
+    second: Smallsword attack_10
+  - first:
+      213: 113918097605401507
+    second: Smallsword attack_11
+  - first:
+      213: 5203438169100913963
+    second: Smallsword attack_12
+  - first:
+      213: -1784658613190770563
+    second: Smallsword attack_13
+  - first:
+      213: -4394929857156552580
+    second: Smallsword attack_15
+  - first:
+      213: -5278949287213244254
+    second: Smallsword attack_18
+  - first:
+      213: 8292125905437435748
+    second: Smallsword attack_21
+  - first:
+      213: 6644831951910052876
+    second: Smallsword attack_22
+  - first:
+      213: 8698212003030308884
+    second: Smallsword attack_23
+  - first:
+      213: 4399963011246478997
+    second: Smallsword attack_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Smallsword attack_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 108
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85e6e76a338c55d0800000000000000
+      internalID: -3072436558898993778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 351
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ac6ad664ff344a0800000000000000
+      internalID: -6610159150097315315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 324
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312b50e1643e09100800000000000000
+      internalID: 112839880975168019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 297
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7bed3a8d3b39d70800000000000000
+      internalID: 9048773819361048490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 270
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610400251816e5d60800000000000000
+      internalID: 7880843605999370262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 243
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282988111dbeffc50800000000000000
+      internalID: 6701334053725442690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9039b9b299dd8bd30800000000000000
+      internalID: 4447548281959715593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 189
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273ae6744749f3780800000000000000
+      internalID: -8701072727920958606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 162
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab124df7e7b49100800000000000000
+      internalID: 113918097605401507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 136
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d08ff1273563840800000000000000
+      internalID: 5203438169100913963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d704c63627e9b37e0800000000000000
+      internalID: -1784658613190770563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 54
+        width: 41
+        height: 19
+      alignment: 9
+      pivot: {x: 0.32031035, y: 0.28248075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200343cd7bd99bc30800000000000000
+      internalID: 4375701925966131202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 27
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef1c19f470f77490800000000000000
+      internalID: -7748460248681406481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Smallsword attack_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467a962d39c831370800000000000000
+      internalID: 8292125905437435748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

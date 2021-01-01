@@ -1,0 +1,6464 @@
+fileFormatVersion: 2
+guid: 8d32a8ed051b5d240ab044c86607c6d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -763633978870255881
+    second: Dungeon Ruins Tileset 2_0
+  - first:
+      213: -4726464504060957998
+    second: Dungeon Ruins Tileset 2_1
+  - first:
+      213: -2206713387666546563
+    second: Dungeon Ruins Tileset 2_2
+  - first:
+      213: 7232182828001086405
+    second: Dungeon Ruins Tileset 2_3
+  - first:
+      213: -6997176694395490847
+    second: Dungeon Ruins Tileset 2_4
+  - first:
+      213: 7393707056749760918
+    second: Dungeon Ruins Tileset 2_5
+  - first:
+      213: 8372941826855630756
+    second: Dungeon Ruins Tileset 2_6
+  - first:
+      213: -3855223178684475525
+    second: Dungeon Ruins Tileset 2_7
+  - first:
+      213: 6045102315292130970
+    second: Dungeon Ruins Tileset 2_8
+  - first:
+      213: -7865361721882661400
+    second: Dungeon Ruins Tileset 2_9
+  - first:
+      213: -3551890409041477357
+    second: Dungeon Ruins Tileset 2_10
+  - first:
+      213: 2031248394783103540
+    second: Dungeon Ruins Tileset 2_11
+  - first:
+      213: 2687736130994776953
+    second: Dungeon Ruins Tileset 2_12
+  - first:
+      213: 3396595779147627574
+    second: Dungeon Ruins Tileset 2_13
+  - first:
+      213: -717720348153105924
+    second: Dungeon Ruins Tileset 2_14
+  - first:
+      213: 164053128346933048
+    second: Dungeon Ruins Tileset 2_15
+  - first:
+      213: -1915772952377032760
+    second: Dungeon Ruins Tileset 2_16
+  - first:
+      213: -1420601257105281803
+    second: Dungeon Ruins Tileset 2_17
+  - first:
+      213: -6740072014256847890
+    second: Dungeon Ruins Tileset 2_18
+  - first:
+      213: 6385351828462334545
+    second: Dungeon Ruins Tileset 2_19
+  - first:
+      213: -158374141727944041
+    second: Dungeon Ruins Tileset 2_20
+  - first:
+      213: 4084999320707900004
+    second: Dungeon Ruins Tileset 2_21
+  - first:
+      213: -6217216589673158091
+    second: Dungeon Ruins Tileset 2_22
+  - first:
+      213: -6012435375513149926
+    second: Dungeon Ruins Tileset 2_23
+  - first:
+      213: -1406669338542781004
+    second: Dungeon Ruins Tileset 2_24
+  - first:
+      213: -8692718456690997846
+    second: Dungeon Ruins Tileset 2_25
+  - first:
+      213: 4888152508684013876
+    second: Dungeon Ruins Tileset 2_26
+  - first:
+      213: 8936805387922436496
+    second: Dungeon Ruins Tileset 2_27
+  - first:
+      213: -5514004955245450016
+    second: Dungeon Ruins Tileset 2_28
+  - first:
+      213: 8944252017336621566
+    second: Dungeon Ruins Tileset 2_29
+  - first:
+      213: 5461953378432697855
+    second: Dungeon Ruins Tileset 2_30
+  - first:
+      213: -2730367831686204449
+    second: Dungeon Ruins Tileset 2_31
+  - first:
+      213: 1308592182360018954
+    second: Dungeon Ruins Tileset 2_32
+  - first:
+      213: 5186140054536976840
+    second: Dungeon Ruins Tileset 2_33
+  - first:
+      213: 6662776581483464752
+    second: Dungeon Ruins Tileset 2_34
+  - first:
+      213: -8121948924552877098
+    second: Dungeon Ruins Tileset 2_35
+  - first:
+      213: -4369078217166062253
+    second: Dungeon Ruins Tileset 2_36
+  - first:
+      213: -1992432602912656862
+    second: Dungeon Ruins Tileset 2_37
+  - first:
+      213: -5284971348454879561
+    second: Dungeon Ruins Tileset 2_38
+  - first:
+      213: 8019767454639803867
+    second: Dungeon Ruins Tileset 2_39
+  - first:
+      213: 3497475689970731066
+    second: Dungeon Ruins Tileset 2_40
+  - first:
+      213: -2400811633740840199
+    second: Dungeon Ruins Tileset 2_41
+  - first:
+      213: 8764191683550419257
+    second: Dungeon Ruins Tileset 2_42
+  - first:
+      213: 3387020574336065149
+    second: Dungeon Ruins Tileset 2_43
+  - first:
+      213: -2629191590494854280
+    second: Dungeon Ruins Tileset 2_44
+  - first:
+      213: 3077446689087286647
+    second: Dungeon Ruins Tileset 2_45
+  - first:
+      213: 7652078820515269729
+    second: Dungeon Ruins Tileset 2_46
+  - first:
+      213: 3770167177170972322
+    second: Dungeon Ruins Tileset 2_47
+  - first:
+      213: -6838124466176011577
+    second: Dungeon Ruins Tileset 2_48
+  - first:
+      213: -4153327059435741251
+    second: Dungeon Ruins Tileset 2_49
+  - first:
+      213: -7932269126597491200
+    second: Dungeon Ruins Tileset 2_50
+  - first:
+      213: 1669162111727790933
+    second: Dungeon Ruins Tileset 2_51
+  - first:
+      213: -4056466548124131339
+    second: Dungeon Ruins Tileset 2_52
+  - first:
+      213: 2308965615668179836
+    second: Dungeon Ruins Tileset 2_53
+  - first:
+      213: -2699750240843564104
+    second: Dungeon Ruins Tileset 2_54
+  - first:
+      213: -3322448232988021790
+    second: Dungeon Ruins Tileset 2_55
+  - first:
+      213: -1266230093547369956
+    second: Dungeon Ruins Tileset 2_56
+  - first:
+      213: -3346318917110951089
+    second: Dungeon Ruins Tileset 2_57
+  - first:
+      213: 5192993825429725582
+    second: Dungeon Ruins Tileset 2_58
+  - first:
+      213: -2869060420884270773
+    second: Dungeon Ruins Tileset 2_59
+  - first:
+      213: 4919312962696156631
+    second: Dungeon Ruins Tileset 2_60
+  - first:
+      213: 355484755372642680
+    second: Dungeon Ruins Tileset 2_61
+  - first:
+      213: 2585630675239343374
+    second: Dungeon Ruins Tileset 2_62
+  - first:
+      213: 1330728135746503555
+    second: Dungeon Ruins Tileset 2_63
+  - first:
+      213: -3342246796516523389
+    second: Dungeon Ruins Tileset 2_64
+  - first:
+      213: -5543542576959850180
+    second: Dungeon Ruins Tileset 2_65
+  - first:
+      213: 1987794122221520076
+    second: Dungeon Ruins Tileset 2_66
+  - first:
+      213: 8869966468704572000
+    second: Dungeon Ruins Tileset 2_67
+  - first:
+      213: -8329374592963506741
+    second: Dungeon Ruins Tileset 2_68
+  - first:
+      213: 1402540864538142976
+    second: Dungeon Ruins Tileset 2_69
+  - first:
+      213: 3836688620290969838
+    second: Dungeon Ruins Tileset 2_70
+  - first:
+      213: 378732355223587508
+    second: Dungeon Ruins Tileset 2_71
+  - first:
+      213: 7337866879511010454
+    second: Dungeon Ruins Tileset 2_72
+  - first:
+      213: 3922971213104421149
+    second: Dungeon Ruins Tileset 2_73
+  - first:
+      213: 2149945152159876398
+    second: Dungeon Ruins Tileset 2_74
+  - first:
+      213: -6786602836758227191
+    second: Dungeon Ruins Tileset 2_75
+  - first:
+      213: 8809360493151641805
+    second: Dungeon Ruins Tileset 2_76
+  - first:
+      213: -8261311533735809089
+    second: Dungeon Ruins Tileset 2_77
+  - first:
+      213: 7543197146869098379
+    second: Dungeon Ruins Tileset 2_78
+  - first:
+      213: 2580755774454612899
+    second: Dungeon Ruins Tileset 2_79
+  - first:
+      213: -5849806063864119136
+    second: Dungeon Ruins Tileset 2_80
+  - first:
+      213: 5060699503349238789
+    second: Dungeon Ruins Tileset 2_81
+  - first:
+      213: -3661619129809368080
+    second: Dungeon Ruins Tileset 2_82
+  - first:
+      213: -5235368547136441708
+    second: Dungeon Ruins Tileset 2_83
+  - first:
+      213: -3983003280878338244
+    second: Dungeon Ruins Tileset 2_84
+  - first:
+      213: -2746345215631646003
+    second: Dungeon Ruins Tileset 2_85
+  - first:
+      213: -6526691627828738361
+    second: Dungeon Ruins Tileset 2_86
+  - first:
+      213: -7714477073150223487
+    second: Dungeon Ruins Tileset 2_87
+  - first:
+      213: -8712336924849736899
+    second: Dungeon Ruins Tileset 2_88
+  - first:
+      213: 7360883968466779131
+    second: Dungeon Ruins Tileset 2_89
+  - first:
+      213: 4614362873501555181
+    second: Dungeon Ruins Tileset 2_90
+  - first:
+      213: 8372478179107643457
+    second: Dungeon Ruins Tileset 2_91
+  - first:
+      213: 779699084469160912
+    second: Dungeon Ruins Tileset 2_92
+  - first:
+      213: 5203944980460808865
+    second: Dungeon Ruins Tileset 2_93
+  - first:
+      213: 7739816768383239369
+    second: Dungeon Ruins Tileset 2_94
+  - first:
+      213: -6536563348131152024
+    second: Dungeon Ruins Tileset 2_95
+  - first:
+      213: 3422562493718454174
+    second: Dungeon Ruins Tileset 2_96
+  - first:
+      213: -7052046116754281131
+    second: Dungeon Ruins Tileset 2_97
+  - first:
+      213: 4875007093996049705
+    second: Dungeon Ruins Tileset 2_98
+  - first:
+      213: 1469762530861403507
+    second: Dungeon Ruins Tileset 2_99
+  - first:
+      213: -6505485000966047221
+    second: Dungeon Ruins Tileset 2_100
+  - first:
+      213: -3434472542663270595
+    second: Dungeon Ruins Tileset 2_101
+  - first:
+      213: 3414606468661696738
+    second: Dungeon Ruins Tileset 2_102
+  - first:
+      213: 4889507560538839007
+    second: Dungeon Ruins Tileset 2_103
+  - first:
+      213: 5370245236909405610
+    second: Dungeon Ruins Tileset 2_104
+  - first:
+      213: -471082465271199941
+    second: Dungeon Ruins Tileset 2_105
+  - first:
+      213: -998930435207439798
+    second: Dungeon Ruins Tileset 2_106
+  - first:
+      213: 5857403182150748903
+    second: Dungeon Ruins Tileset 2_107
+  - first:
+      213: -1650784738548023511
+    second: Dungeon Ruins Tileset 2_108
+  - first:
+      213: -4787411476055183960
+    second: Dungeon Ruins Tileset 2_109
+  - first:
+      213: 5894290288483373817
+    second: Dungeon Ruins Tileset 2_110
+  - first:
+      213: -8816681958027821144
+    second: Dungeon Ruins Tileset 2_111
+  - first:
+      213: 8426943155437341341
+    second: Dungeon Ruins Tileset 2_112
+  - first:
+      213: 3932579479414904406
+    second: Dungeon Ruins Tileset 2_113
+  - first:
+      213: -6899864218686428775
+    second: Dungeon Ruins Tileset 2_114
+  - first:
+      213: -6783330429007827618
+    second: Dungeon Ruins Tileset 2_115
+  - first:
+      213: -3749416769984511982
+    second: Dungeon Ruins Tileset 2_116
+  - first:
+      213: -5455220015038535407
+    second: Dungeon Ruins Tileset 2_117
+  - first:
+      213: 4702064744034778552
+    second: Dungeon Ruins Tileset 2_118
+  - first:
+      213: -4513928385229729382
+    second: Dungeon Ruins Tileset 2_119
+  - first:
+      213: 7551833681519962515
+    second: Dungeon Ruins Tileset 2_120
+  - first:
+      213: 1465291284765647637
+    second: Dungeon Ruins Tileset 2_121
+  - first:
+      213: -213821090937752498
+    second: Dungeon Ruins Tileset 2_122
+  - first:
+      213: -2291726546307411272
+    second: Dungeon Ruins Tileset 2_123
+  - first:
+      213: 4790313077847855943
+    second: Dungeon Ruins Tileset 2_124
+  - first:
+      213: -3623151773689147184
+    second: Dungeon Ruins Tileset 2_125
+  - first:
+      213: 1181822838078622283
+    second: Dungeon Ruins Tileset 2_126
+  - first:
+      213: -1018118418557438565
+    second: Dungeon Ruins Tileset 2_127
+  - first:
+      213: 396153116630765694
+    second: Dungeon Ruins Tileset 2_128
+  - first:
+      213: 3136747011897630685
+    second: Dungeon Ruins Tileset 2_129
+  - first:
+      213: 571483295323270978
+    second: Dungeon Ruins Tileset 2_130
+  - first:
+      213: -997800500954036529
+    second: Dungeon Ruins Tileset 2_131
+  - first:
+      213: 5979295821788437307
+    second: Dungeon Ruins Tileset 2_132
+  - first:
+      213: -3761796610667349420
+    second: Dungeon Ruins Tileset 2_133
+  - first:
+      213: 6919654630122139521
+    second: Dungeon Ruins Tileset 2_134
+  - first:
+      213: 5680875203163778233
+    second: Dungeon Ruins Tileset 2_135
+  - first:
+      213: -2756882490980627635
+    second: Dungeon Ruins Tileset 2_136
+  - first:
+      213: -2833040365251757485
+    second: Dungeon Ruins Tileset 2_137
+  - first:
+      213: 3261575929008166671
+    second: Dungeon Ruins Tileset 2_138
+  - first:
+      213: -4557298858571037126
+    second: Dungeon Ruins Tileset 2_139
+  - first:
+      213: -2830100991311121064
+    second: Dungeon Ruins Tileset 2_140
+  - first:
+      213: 7495333088430672600
+    second: Dungeon Ruins Tileset 2_141
+  - first:
+      213: -7833594237234394638
+    second: Dungeon Ruins Tileset 2_142
+  - first:
+      213: -9058475009394240476
+    second: Dungeon Ruins Tileset 2_143
+  - first:
+      213: -8522474565591703010
+    second: Dungeon Ruins Tileset 2_144
+  - first:
+      213: -6838868196676478875
+    second: Dungeon Ruins Tileset 2_145
+  - first:
+      213: 4875017362531068210
+    second: Dungeon Ruins Tileset 2_146
+  - first:
+      213: 2080920565109496726
+    second: Dungeon Ruins Tileset 2_147
+  - first:
+      213: 6322111254483063601
+    second: Dungeon Ruins Tileset 2_148
+  - first:
+      213: 7494105357261759624
+    second: Dungeon Ruins Tileset 2_149
+  - first:
+      213: -8268012881326800561
+    second: Dungeon Ruins Tileset 2_150
+  - first:
+      213: -5370945635147045348
+    second: Dungeon Ruins Tileset 2_151
+  - first:
+      213: 927785091612798657
+    second: Dungeon Ruins Tileset 2_152
+  - first:
+      213: -4112413145190973189
+    second: Dungeon Ruins Tileset 2_153
+  - first:
+      213: -4138510104585749264
+    second: Dungeon Ruins Tileset 2_154
+  - first:
+      213: 2369048296605534301
+    second: Dungeon Ruins Tileset 2_155
+  - first:
+      213: 7483026193047842074
+    second: Dungeon Ruins Tileset 2_156
+  - first:
+      213: -8078833727332055525
+    second: Dungeon Ruins Tileset 2_157
+  - first:
+      213: 597255453088002788
+    second: Dungeon Ruins Tileset 2_158
+  - first:
+      213: -299759497806680243
+    second: Dungeon Ruins Tileset 2_159
+  - first:
+      213: 4004349489759416347
+    second: Dungeon Ruins Tileset 2_160
+  - first:
+      213: -2775623947992357960
+    second: Dungeon Ruins Tileset 2_161
+  - first:
+      213: 158098821498007007
+    second: Dungeon Ruins Tileset 2_162
+  - first:
+      213: -2802411472461184163
+    second: Dungeon Ruins Tileset 2_163
+  - first:
+      213: -3310681549363801117
+    second: Dungeon Ruins Tileset 2_164
+  - first:
+      213: 555077255395616673
+    second: Dungeon Ruins Tileset 2_165
+  - first:
+      213: 2085230583186891038
+    second: Dungeon Ruins Tileset 2_166
+  - first:
+      213: 3020648701295404786
+    second: Dungeon Ruins Tileset 2_167
+  - first:
+      213: -5501651998862066035
+    second: Dungeon Ruins Tileset 2_168
+  - first:
+      213: 2084198937722162036
+    second: Dungeon Ruins Tileset 2_169
+  - first:
+      213: -2379407688734399268
+    second: Dungeon Ruins Tileset 2_170
+  - first:
+      213: 6693333998162778768
+    second: Dungeon Ruins Tileset 2_171
+  - first:
+      213: 8854753953017336781
+    second: Dungeon Ruins Tileset 2_172
+  - first:
+      213: -2259584928479788065
+    second: Dungeon Ruins Tileset 2_173
+  - first:
+      213: -6558212400484751605
+    second: Dungeon Ruins Tileset 2_174
+  - first:
+      213: 1823957231154079793
+    second: Dungeon Ruins Tileset 2_175
+  - first:
+      213: 1260532828124414087
+    second: Dungeon Ruins Tileset 2_176
+  - first:
+      213: 1166025546717566722
+    second: Dungeon Ruins Tileset 2_177
+  - first:
+      213: -4154299107842692834
+    second: Dungeon Ruins Tileset 2_178
+  - first:
+      213: -7709957738467365821
+    second: Dungeon Ruins Tileset 2_179
+  - first:
+      213: -6412308847768656838
+    second: Dungeon Ruins Tileset 2_180
+  - first:
+      213: -7345284255405116591
+    second: Dungeon Ruins Tileset 2_181
+  - first:
+      213: -9222945339630939190
+    second: Dungeon Ruins Tileset 2_182
+  - first:
+      213: 3955546537696348286
+    second: Dungeon Ruins Tileset 2_183
+  - first:
+      213: -7607259790304107132
+    second: Dungeon Ruins Tileset 2_184
+  - first:
+      213: 1491818005161383861
+    second: Dungeon Ruins Tileset 2_185
+  - first:
+      213: -3977237165847166679
+    second: Dungeon Ruins Tileset 2_186
+  - first:
+      213: 2171342972993012296
+    second: Dungeon Ruins Tileset 2_187
+  - first:
+      213: 8266543244455985527
+    second: Dungeon Ruins Tileset 2_188
+  - first:
+      213: -1264556980437667150
+    second: Dungeon Ruins Tileset 2_189
+  - first:
+      213: 1406267787729153878
+    second: Dungeon Ruins Tileset 2_190
+  - first:
+      213: -8232055432315731589
+    second: Dungeon Ruins Tileset 2_191
+  - first:
+      213: 8380133120848072634
+    second: Dungeon Ruins Tileset 2_192
+  - first:
+      213: -7089513310026796450
+    second: Dungeon Ruins Tileset 2_193
+  - first:
+      213: -8567313717719300271
+    second: Dungeon Ruins Tileset 2_194
+  - first:
+      213: -388244270490568109
+    second: Dungeon Ruins Tileset 2_195
+  - first:
+      213: 3898965941199410240
+    second: Dungeon Ruins Tileset 2_196
+  - first:
+      213: -5969481322026035606
+    second: Dungeon Ruins Tileset 2_197
+  - first:
+      213: 705197531333029195
+    second: Dungeon Ruins Tileset 2_198
+  - first:
+      213: -2850486045225143521
+    second: Dungeon Ruins Tileset 2_199
+  - first:
+      213: 8526072787236570502
+    second: Dungeon Ruins Tileset 2_200
+  - first:
+      213: 6655471021845713712
+    second: Dungeon Ruins Tileset 2_201
+  - first:
+      213: -5725904864301377912
+    second: Dungeon Ruins Tileset 2_202
+  - first:
+      213: 7288105149927425931
+    second: Dungeon Ruins Tileset 2_203
+  - first:
+      213: -1921023898536653365
+    second: Dungeon Ruins Tileset 2_204
+  - first:
+      213: -4415408413641501926
+    second: Dungeon Ruins Tileset 2_205
+  - first:
+      213: -6646646619523681847
+    second: Dungeon Ruins Tileset 2_206
+  - first:
+      213: -1691092830459590539
+    second: Dungeon Ruins Tileset 2_207
+  - first:
+      213: -1968314169330520700
+    second: Dungeon Ruins Tileset 2_208
+  - first:
+      213: 1136817206922102349
+    second: Dungeon Ruins Tileset 2_209
+  - first:
+      213: 4465486849043314155
+    second: Dungeon Ruins Tileset 2_210
+  - first:
+      213: -2626683328790372429
+    second: Dungeon Ruins Tileset 2_211
+  - first:
+      213: -3269197032462158510
+    second: Dungeon Ruins Tileset 2_212
+  - first:
+      213: -7013532851574303568
+    second: Dungeon Ruins Tileset 2_213
+  - first:
+      213: 2241528878691481615
+    second: Dungeon Ruins Tileset 2_214
+  - first:
+      213: -5196148913023381
+    second: Dungeon Ruins Tileset 2_215
+  - first:
+      213: -9109684922372031768
+    second: Dungeon Ruins Tileset 2_216
+  - first:
+      213: -3413801970464924726
+    second: Dungeon Ruins Tileset 2_217
+  - first:
+      213: 4540641566057945761
+    second: Dungeon Ruins Tileset 2_218
+  - first:
+      213: 38210432788274028
+    second: Dungeon Ruins Tileset 2_219
+  - first:
+      213: -5979266110146973301
+    second: Dungeon Ruins Tileset 2_220
+  - first:
+      213: -8325091011332372271
+    second: Dungeon Ruins Tileset 2_221
+  - first:
+      213: -5491066005573344930
+    second: Dungeon Ruins Tileset 2_222
+  - first:
+      213: -2903969477716539364
+    second: Dungeon Ruins Tileset 2_223
+  - first:
+      213: -5873507221259042653
+    second: Dungeon Ruins Tileset 2_224
+  - first:
+      213: -503670275624794476
+    second: Dungeon Ruins Tileset 2_225
+  - first:
+      213: 1947177724346189112
+    second: Dungeon Ruins Tileset 2_226
+  - first:
+      213: 5488791095705367546
+    second: Dungeon Ruins Tileset 2_227
+  - first:
+      213: 861205373923591103
+    second: Dungeon Ruins Tileset 2_228
+  - first:
+      213: -858084243137996286
+    second: Dungeon Ruins Tileset 2_229
+  - first:
+      213: -8240898079009770672
+    second: Dungeon Ruins Tileset 2_230
+  - first:
+      213: 7391991314179469627
+    second: Dungeon Ruins Tileset 2_231
+  - first:
+      213: -637026873880364240
+    second: Dungeon Ruins Tileset 2_232
+  - first:
+      213: -1278896152534642409
+    second: Dungeon Ruins Tileset 2_233
+  - first:
+      213: 3450642840100853082
+    second: Dungeon Ruins Tileset 2_234
+  - first:
+      213: -1499186741481989122
+    second: Dungeon Ruins Tileset 2_235
+  - first:
+      213: -2496971960995527605
+    second: Dungeon Ruins Tileset 2_236
+  - first:
+      213: -4802075140389905419
+    second: Dungeon Ruins Tileset 2_237
+  - first:
+      213: 7563617623322796952
+    second: Dungeon Ruins Tileset 2_238
+  - first:
+      213: 6044808857959899936
+    second: Dungeon Ruins Tileset 2_239
+  - first:
+      213: 3702516581450880317
+    second: Dungeon Ruins Tileset 2_240
+  - first:
+      213: -2208661118055351883
+    second: Dungeon Ruins Tileset 2_241
+  - first:
+      213: -7560022017569853285
+    second: Dungeon Ruins Tileset 2_242
+  - first:
+      213: -84478932351882762
+    second: Dungeon Ruins Tileset 2_243
+  - first:
+      213: 3939882224275512973
+    second: Dungeon Ruins Tileset 2_244
+  - first:
+      213: -5245182721894434861
+    second: Dungeon Ruins Tileset 2_245
+  - first:
+      213: -8209940566891967164
+    second: Dungeon Ruins Tileset 2_246
+  - first:
+      213: -4030199653798080672
+    second: Dungeon Ruins Tileset 2_247
+  - first:
+      213: -3779732193023644431
+    second: Dungeon Ruins Tileset 2_248
+  - first:
+      213: -5754956062553701960
+    second: Dungeon Ruins Tileset 2_249
+  - first:
+      213: -1189890646726262054
+    second: Dungeon Ruins Tileset 2_250
+  - first:
+      213: 7973019801038195390
+    second: Dungeon Ruins Tileset 2_251
+  - first:
+      213: -3498385197851324819
+    second: Dungeon Ruins Tileset 2_252
+  - first:
+      213: 5990165914288362826
+    second: Dungeon Ruins Tileset 2_253
+  - first:
+      213: -457947538299970711
+    second: Dungeon Ruins Tileset 2_254
+  - first:
+      213: 3492283967881048184
+    second: Dungeon Ruins Tileset 2_255
+  - first:
+      213: 8816989938516864359
+    second: Dungeon Ruins Tileset 2_256
+  - first:
+      213: 7076068182395468234
+    second: Dungeon Ruins Tileset 2_257
+  - first:
+      213: 5718649728820963921
+    second: Dungeon Ruins Tileset 2_258
+  - first:
+      213: 1295302458615797228
+    second: Dungeon Ruins Tileset 2_259
+  - first:
+      213: 3033306238869292606
+    second: Dungeon Ruins Tileset 2_260
+  - first:
+      213: -7589068319028723850
+    second: Dungeon Ruins Tileset 2_261
+  - first:
+      213: -1826712300496243567
+    second: Dungeon Ruins Tileset 2_262
+  - first:
+      213: -6075543229019631427
+    second: Dungeon Ruins Tileset 2_263
+  - first:
+      213: 5517772972615805127
+    second: Dungeon Ruins Tileset 2_264
+  - first:
+      213: -9085437128857296980
+    second: Dungeon Ruins Tileset 2_265
+  - first:
+      213: 6678420125980694495
+    second: Dungeon Ruins Tileset 2_266
+  - first:
+      213: 476080679025781800
+    second: Dungeon Ruins Tileset 2_267
+  - first:
+      213: -965626939277502924
+    second: Dungeon Ruins Tileset 2_268
+  - first:
+      213: 3379651779891252026
+    second: Dungeon Ruins Tileset 2_269
+  - first:
+      213: -6199139491732128096
+    second: Dungeon Ruins Tileset 2_270
+  - first:
+      213: 2731114984357769342
+    second: Dungeon Ruins Tileset 2_271
+  - first:
+      213: 6947361919871000574
+    second: Dungeon Ruins Tileset 2_272
+  - first:
+      213: 3596220141056885199
+    second: Dungeon Ruins Tileset 2_273
+  - first:
+      213: -191240933800229510
+    second: Dungeon Ruins Tileset 2_274
+  - first:
+      213: 8379746162879189705
+    second: Dungeon Ruins Tileset 2_275
+  - first:
+      213: -45603821795972067
+    second: Dungeon Ruins Tileset 2_276
+  - first:
+      213: 2606967567571039412
+    second: Dungeon Ruins Tileset 2_0
+  - first:
+      213: 3190410925383727059
+    second: Dungeon Ruins Tileset 2_1
+  - first:
+      213: -1112153953913281940
+    second: Dungeon Ruins Tileset 2_2
+  - first:
+      213: -2391636863563966290
+    second: Dungeon Ruins Tileset 2_3
+  - first:
+      213: -7333922301949845427
+    second: Dungeon Ruins Tileset 2_4
+  - first:
+      213: -7819383172487346890
+    second: Dungeon Ruins Tileset 2_5
+  - first:
+      213: -8507369177875124031
+    second: Dungeon Ruins Tileset 2_6
+  - first:
+      213: 5565343695225658175
+    second: Dungeon Ruins Tileset 2_7
+  - first:
+      213: 5738687068293404809
+    second: Dungeon Ruins Tileset 2_8
+  - first:
+      213: -3847894175457542775
+    second: Dungeon Ruins Tileset 2_9
+  - first:
+      213: 5404153116357777792
+    second: Dungeon Ruins Tileset 2_10
+  - first:
+      213: 1689312281287136261
+    second: Dungeon Ruins Tileset 2_11
+  - first:
+      213: 5956507800336030412
+    second: Dungeon Ruins Tileset 2_12
+  - first:
+      213: -4211984157864363670
+    second: Dungeon Ruins Tileset 2_13
+  - first:
+      213: -8451034803818883260
+    second: Dungeon Ruins Tileset 2_14
+  - first:
+      213: 9217184617757627116
+    second: Dungeon Ruins Tileset 2_15
+  - first:
+      213: 8134335925077896524
+    second: Dungeon Ruins Tileset 2_16
+  - first:
+      213: 3915407753241500791
+    second: Dungeon Ruins Tileset 2_17
+  - first:
+      213: -6342742110771577709
+    second: Dungeon Ruins Tileset 2_18
+  - first:
+      213: -2705425141332513442
+    second: Dungeon Ruins Tileset 2_19
+  - first:
+      213: 2524558947348730157
+    second: Dungeon Ruins Tileset 2_20
+  - first:
+      213: -7883018280879095028
+    second: Dungeon Ruins Tileset 2_21
+  - first:
+      213: -7734371759211675937
+    second: Dungeon Ruins Tileset 2_22
+  - first:
+      213: 3864204432013367533
+    second: Dungeon Ruins Tileset 2_23
+  - first:
+      213: -6649324080554901567
+    second: Dungeon Ruins Tileset 2_24
+  - first:
+      213: -8578207515462779538
+    second: Dungeon Ruins Tileset 2_25
+  - first:
+      213: 5211469116366375183
+    second: Dungeon Ruins Tileset 2_26
+  - first:
+      213: 4409979852646365291
+    second: Dungeon Ruins Tileset 2_27
+  - first:
+      213: 7432831111048266291
+    second: Dungeon Ruins Tileset 2_28
+  - first:
+      213: 8475704425770447706
+    second: Dungeon Ruins Tileset 2_29
+  - first:
+      213: -4028491730965729555
+    second: Dungeon Ruins Tileset 2_30
+  - first:
+      213: 5366062764236086774
+    second: Dungeon Ruins Tileset 2_31
+  - first:
+      213: 7946412203655049178
+    second: Dungeon Ruins Tileset 2_32
+  - first:
+      213: 8763457927209364934
+    second: Dungeon Ruins Tileset 2_33
+  - first:
+      213: -1140446616567533766
+    second: Dungeon Ruins Tileset 2_34
+  - first:
+      213: 6016416091204854854
+    second: Dungeon Ruins Tileset 2_35
+  - first:
+      213: -542449385901984105
+    second: Dungeon Ruins Tileset 2_36
+  - first:
+      213: -8751875318862839896
+    second: Dungeon Ruins Tileset 2_37
+  - first:
+      213: 785899687611138302
+    second: Dungeon Ruins Tileset 2_38
+  - first:
+      213: -2894678779600013035
+    second: Dungeon Ruins Tileset 2_39
+  - first:
+      213: -1126137082520857172
+    second: Dungeon Ruins Tileset 2_40
+  - first:
+      213: 4227301923439929791
+    second: Dungeon Ruins Tileset 2_41
+  - first:
+      213: -4455489708183969495
+    second: Dungeon Ruins Tileset 2_42
+  - first:
+      213: 8506132391309171049
+    second: Dungeon Ruins Tileset 2_43
+  - first:
+      213: 7629543630487799119
+    second: Dungeon Ruins Tileset 2_44
+  - first:
+      213: -3858445034125463792
+    second: Dungeon Ruins Tileset 2_45
+  - first:
+      213: -9084766550361601171
+    second: Dungeon Ruins Tileset 2_46
+  - first:
+      213: 760091381128013400
+    second: Dungeon Ruins Tileset 2_47
+  - first:
+      213: 457271622534009481
+    second: Dungeon Ruins Tileset 2_48
+  - first:
+      213: 4454495522031308880
+    second: Dungeon Ruins Tileset 2_49
+  - first:
+      213: -9203021082505273671
+    second: Dungeon Ruins Tileset 2_50
+  - first:
+      213: -1145592968044758516
+    second: Dungeon Ruins Tileset 2_51
+  - first:
+      213: -3430165474007143471
+    second: Dungeon Ruins Tileset 2_52
+  - first:
+      213: 1811919056939203726
+    second: Dungeon Ruins Tileset 2_53
+  - first:
+      213: 437658508863684351
+    second: Dungeon Ruins Tileset 2_54
+  - first:
+      213: -7131277079754719324
+    second: Dungeon Ruins Tileset 2_55
+  - first:
+      213: -8476338306682712950
+    second: Dungeon Ruins Tileset 2_56
+  - first:
+      213: 2117759710459839013
+    second: Dungeon Ruins Tileset 2_57
+  - first:
+      213: 8592858756118900383
+    second: Dungeon Ruins Tileset 2_58
+  - first:
+      213: 2881809470594263454
+    second: Dungeon Ruins Tileset 2_59
+  - first:
+      213: -8338181658716497691
+    second: Dungeon Ruins Tileset 2_60
+  - first:
+      213: 3827645955554435409
+    second: Dungeon Ruins Tileset 2_61
+  - first:
+      213: -2607513996599988379
+    second: Dungeon Ruins Tileset 2_62
+  - first:
+      213: -7301345048445789657
+    second: Dungeon Ruins Tileset 2_63
+  - first:
+      213: -7369058928139841588
+    second: Dungeon Ruins Tileset 2_64
+  - first:
+      213: 9098314092415345669
+    second: Dungeon Ruins Tileset 2_66
+  - first:
+      213: -7363400309947946197
+    second: Dungeon Ruins Tileset 2_67
+  - first:
+      213: 8192899958364095461
+    second: Dungeon Ruins Tileset 2_68
+  - first:
+      213: 1063294998824079916
+    second: Dungeon Ruins Tileset 2_70
+  - first:
+      213: 8773540345361278246
+    second: Dungeon Ruins Tileset 2_71
+  - first:
+      213: -3332771212582011719
+    second: Dungeon Ruins Tileset 2_72
+  - first:
+      213: -1221378179676639449
+    second: Dungeon Ruins Tileset 2_73
+  - first:
+      213: 6415233703714304009
+    second: Dungeon Ruins Tileset 2_76
+  - first:
+      213: 2412147284093848606
+    second: Dungeon Ruins Tileset 2_77
+  - first:
+      213: -3853221047081443661
+    second: Dungeon Ruins Tileset 2_84
+  - first:
+      213: 5628883465330574929
+    second: Dungeon Ruins Tileset 2_85
+  - first:
+      213: 5512982822870472072
+    second: Dungeon Ruins Tileset 2_86
+  - first:
+      213: 1422747825833762430
+    second: Dungeon Ruins Tileset 2_88
+  - first:
+      213: -2139547801671803714
+    second: Dungeon Ruins Tileset 2_89
+  - first:
+      213: -230750167200310022
+    second: Dungeon Ruins Tileset 2_90
+  - first:
+      213: -3838124691021486055
+    second: Dungeon Ruins Tileset 2_91
+  - first:
+      213: -8509720567250524864
+    second: Dungeon Ruins Tileset 2_92
+  - first:
+      213: -8614312600951073408
+    second: Dungeon Ruins Tileset 2_93
+  - first:
+      213: -7782075793856140960
+    second: Dungeon Ruins Tileset 2_94
+  - first:
+      213: 6028848865109283223
+    second: Dungeon Ruins Tileset 2_95
+  - first:
+      213: 6640109421722978539
+    second: Dungeon Ruins Tileset 2_96
+  - first:
+      213: 2995436377588498706
+    second: Dungeon Ruins Tileset 2_97
+  - first:
+      213: 6454088336234667375
+    second: Dungeon Ruins Tileset 2_98
+  - first:
+      213: 817895299083728367
+    second: Dungeon Ruins Tileset 2_99
+  - first:
+      213: -7090156690515900045
+    second: Dungeon Ruins Tileset 2_101
+  - first:
+      213: 8886806381896125928
+    second: Dungeon Ruins Tileset 2_102
+  - first:
+      213: -6782070098664953364
+    second: Dungeon Ruins Tileset 2_103
+  - first:
+      213: 5212056211189993846
+    second: Dungeon Ruins Tileset 2_105
+  - first:
+      213: -1175018845394303003
+    second: Dungeon Ruins Tileset 2_106
+  - first:
+      213: 5313526885369921991
+    second: Dungeon Ruins Tileset 2_108
+  - first:
+      213: -9092343427938935524
+    second: Dungeon Ruins Tileset 2_109
+  - first:
+      213: 5746187506797579312
+    second: Dungeon Ruins Tileset 2_115
+  - first:
+      213: 828316032276590095
+    second: Dungeon Ruins Tileset 2_116
+  - first:
+      213: -4386554416941885227
+    second: Dungeon Ruins Tileset 2_117
+  - first:
+      213: -7689381348524992177
+    second: Dungeon Ruins Tileset 2_118
+  - first:
+      213: 2038556674479440237
+    second: Dungeon Ruins Tileset 2_119
+  - first:
+      213: 4950750842700909195
+    second: Dungeon Ruins Tileset 2_122
+  - first:
+      213: -7747430919229899887
+    second: Dungeon Ruins Tileset 2_123
+  - first:
+      213: 8100127984613236511
+    second: Dungeon Ruins Tileset 2_124
+  - first:
+      213: 6024909671831125268
+    second: Dungeon Ruins Tileset 2_125
+  - first:
+      213: 3528727706125717703
+    second: Dungeon Ruins Tileset 2_126
+  - first:
+      213: 1222253493799341625
+    second: Dungeon Ruins Tileset 2_127
+  - first:
+      213: -4225588676862233350
+    second: Dungeon Ruins Tileset 2_128
+  - first:
+      213: -6099509038938931220
+    second: Dungeon Ruins Tileset 2_129
+  - first:
+      213: -3911758699708379184
+    second: Dungeon Ruins Tileset 2_130
+  - first:
+      213: 7418086709465389849
+    second: Dungeon Ruins Tileset 2_131
+  - first:
+      213: 4401652195737173957
+    second: Dungeon Ruins Tileset 2_132
+  - first:
+      213: -8372518743675229915
+    second: Dungeon Ruins Tileset 2_133
+  - first:
+      213: 5228641788577705352
+    second: Dungeon Ruins Tileset 2_134
+  - first:
+      213: -4151733155970514195
+    second: Dungeon Ruins Tileset 2_135
+  - first:
+      213: -4759763548387663585
+    second: Dungeon Ruins Tileset 2_136
+  - first:
+      213: 4758368112682954908
+    second: Dungeon Ruins Tileset 2_137
+  - first:
+      213: -6225995566118637045
+    second: Dungeon Ruins Tileset 2_138
+  - first:
+      213: -2569152210888269077
+    second: Dungeon Ruins Tileset 2_139
+  - first:
+      213: 1036310897426872999
+    second: Dungeon Ruins Tileset 2_142
+  - first:
+      213: 5627743730030955361
+    second: Dungeon Ruins Tileset 2_146
+  - first:
+      213: -5884836660711738672
+    second: Dungeon Ruins Tileset 2_147
+  - first:
+      213: -7062067062726266629
+    second: Dungeon Ruins Tileset 2_148
+  - first:
+      213: 9049293057497505016
+    second: Dungeon Ruins Tileset 2_149
+  - first:
+      213: -6970649140794313974
+    second: Dungeon Ruins Tileset 2_150
+  - first:
+      213: -1740798021758804167
+    second: Dungeon Ruins Tileset 2_151
+  - first:
+      213: -3554720587607258116
+    second: Dungeon Ruins Tileset 2_152
+  - first:
+      213: -3041642926435017516
+    second: Dungeon Ruins Tileset 2_153
+  - first:
+      213: -5821575667753159358
+    second: Dungeon Ruins Tileset 2_154
+  - first:
+      213: 8719034385994639556
+    second: Dungeon Ruins Tileset 2_155
+  - first:
+      213: 6349407293053312460
+    second: Dungeon Ruins Tileset 2_156
+  - first:
+      213: 3155428637531914759
+    second: Dungeon Ruins Tileset 2_157
+  - first:
+      213: -8013055821132382323
+    second: Dungeon Ruins Tileset 2_158
+  - first:
+      213: 5988677125834612275
+    second: Dungeon Ruins Tileset 2_159
+  - first:
+      213: -2814555406378254018
+    second: Dungeon Ruins Tileset 2_160
+  - first:
+      213: 6882905604296136043
+    second: Dungeon Ruins Tileset 2_161
+  - first:
+      213: 4482104851388784487
+    second: Dungeon Ruins Tileset 2_162
+  - first:
+      213: -2692971853474700662
+    second: Dungeon Ruins Tileset 2_163
+  - first:
+      213: 7410799391742441519
+    second: Dungeon Ruins Tileset 2_164
+  - first:
+      213: 6110773047930867109
+    second: Dungeon Ruins Tileset 2_165
+  - first:
+      213: -4661744257016356301
+    second: Dungeon Ruins Tileset 2_166
+  - first:
+      213: -6937884354402806796
+    second: Dungeon Ruins Tileset 2_167
+  - first:
+      213: -1899220055168547155
+    second: Dungeon Ruins Tileset 2_168
+  - first:
+      213: 300366018190775972
+    second: Dungeon Ruins Tileset 2_169
+  - first:
+      213: 5388853024218683179
+    second: Dungeon Ruins Tileset 2_170
+  - first:
+      213: 3740656383642640930
+    second: Dungeon Ruins Tileset 2_171
+  - first:
+      213: -884089984642209683
+    second: Dungeon Ruins Tileset 2_173
+  - first:
+      213: -7211311232706804706
+    second: Dungeon Ruins Tileset 2_174
+  - first:
+      213: -1764527351288197308
+    second: Dungeon Ruins Tileset 2_175
+  - first:
+      213: -5462260422940135474
+    second: Dungeon Ruins Tileset 2_177
+  - first:
+      213: -2691797806695096600
+    second: Dungeon Ruins Tileset 2_178
+  - first:
+      213: -5057392778070349381
+    second: Dungeon Ruins Tileset 2_179
+  - first:
+      213: -6023824288725601302
+    second: Dungeon Ruins Tileset 2_180
+  - first:
+      213: 4715334358945159254
+    second: Dungeon Ruins Tileset 2_181
+  - first:
+      213: 2076427466974102626
+    second: Dungeon Ruins Tileset 2_182
+  - first:
+      213: -4840050269500243360
+    second: Dungeon Ruins Tileset 2_183
+  - first:
+      213: -6592966913149535727
+    second: Dungeon Ruins Tileset 2_184
+  - first:
+      213: -3104236279035802276
+    second: Dungeon Ruins Tileset 2_185
+  - first:
+      213: -770135622291520210
+    second: Dungeon Ruins Tileset 2_186
+  - first:
+      213: -4717816977288611662
+    second: Dungeon Ruins Tileset 2_187
+  - first:
+      213: 7788780650277085276
+    second: Dungeon Ruins Tileset 2_188
+  - first:
+      213: -6822482464440662430
+    second: Dungeon Ruins Tileset 2_189
+  - first:
+      213: -8390792916827152745
+    second: Dungeon Ruins Tileset 2_190
+  - first:
+      213: -3108056983131117445
+    second: Dungeon Ruins Tileset 2_191
+  - first:
+      213: -4274118553121049773
+    second: Dungeon Ruins Tileset 2_192
+  - first:
+      213: -8768913380256416972
+    second: Dungeon Ruins Tileset 2_193
+  - first:
+      213: -1569629635422538228
+    second: Dungeon Ruins Tileset 2_194
+  - first:
+      213: 185986600138671131
+    second: Dungeon Ruins Tileset 2_195
+  - first:
+      213: -5922592428888525012
+    second: Dungeon Ruins Tileset 2_196
+  - first:
+      213: -6147796490416015579
+    second: Dungeon Ruins Tileset 2_197
+  - first:
+      213: -5390629937260411193
+    second: Dungeon Ruins Tileset 2_198
+  - first:
+      213: 8857574665434931788
+    second: Dungeon Ruins Tileset 2_199
+  - first:
+      213: -5840552657513554871
+    second: Dungeon Ruins Tileset 2_200
+  - first:
+      213: 8823520399198703809
+    second: Dungeon Ruins Tileset 2_201
+  - first:
+      213: -5801887655310718804
+    second: Dungeon Ruins Tileset 2_202
+  - first:
+      213: 4961578007046873730
+    second: Dungeon Ruins Tileset 2_203
+  - first:
+      213: -666623176453101708
+    second: Dungeon Ruins Tileset 2_204
+  - first:
+      213: -5766447701221512036
+    second: Dungeon Ruins Tileset 2_206
+  - first:
+      213: -57509559916841605
+    second: Dungeon Ruins Tileset 2_207
+  - first:
+      213: -3444433550782726536
+    second: Dungeon Ruins Tileset 2_208
+  - first:
+      213: 2048329165929620520
+    second: Dungeon Ruins Tileset 2_209
+  - first:
+      213: -6610921905558629236
+    second: Dungeon Ruins Tileset 2_210
+  - first:
+      213: -3801613172608052035
+    second: Dungeon Ruins Tileset 2_211
+  - first:
+      213: 4712838794673245156
+    second: Dungeon Ruins Tileset 2_212
+  - first:
+      213: 4051451034400742355
+    second: Dungeon Ruins Tileset 2_213
+  - first:
+      213: 4619583035985964929
+    second: Dungeon Ruins Tileset 2_214
+  - first:
+      213: 4961294642030470318
+    second: Dungeon Ruins Tileset 2_215
+  - first:
+      213: 8920097972761160270
+    second: Dungeon Ruins Tileset 2_216
+  - first:
+      213: -2444043078173129333
+    second: Dungeon Ruins Tileset 2_217
+  - first:
+      213: -2685544682161367421
+    second: Dungeon Ruins Tileset 2_218
+  - first:
+      213: -8278533837229194585
+    second: Dungeon Ruins Tileset 2_219
+  - first:
+      213: 2477031770712676696
+    second: Dungeon Ruins Tileset 2_220
+  - first:
+      213: -4110398235967934527
+    second: Dungeon Ruins Tileset 2_221
+  - first:
+      213: 8535763979005902930
+    second: Dungeon Ruins Tileset 2_222
+  - first:
+      213: -3295195668307011720
+    second: Dungeon Ruins Tileset 2_223
+  - first:
+      213: -740396265499258482
+    second: Dungeon Ruins Tileset 2_224
+  - first:
+      213: -2978692693478273833
+    second: Dungeon Ruins Tileset 2_225
+  - first:
+      213: -4369428026064147456
+    second: Dungeon Ruins Tileset 2_228
+  - first:
+      213: -8821835988613347065
+    second: Dungeon Ruins Tileset 2_229
+  - first:
+      213: -9181700920978701663
+    second: Dungeon Ruins Tileset 2_230
+  - first:
+      213: 6862850976381566402
+    second: Dungeon Ruins Tileset 2_231
+  - first:
+      213: 839681614104353275
+    second: Dungeon Ruins Tileset 2_232
+  - first:
+      213: 2206905214134307890
+    second: Dungeon Ruins Tileset 2_233
+  - first:
+      213: 6448784285527518007
+    second: Dungeon Ruins Tileset 2_234
+  - first:
+      213: 1294638517326663771
+    second: Dungeon Ruins Tileset 2_235
+  - first:
+      213: -6288712010142445325
+    second: Dungeon Ruins Tileset 2_236
+  - first:
+      213: 5593645859659733311
+    second: Dungeon Ruins Tileset 2_237
+  - first:
+      213: -2783734547005451723
+    second: Dungeon Ruins Tileset 2_238
+  - first:
+      213: -1245799241053689865
+    second: Dungeon Ruins Tileset 2_239
+  - first:
+      213: 1836846216302977395
+    second: Dungeon Ruins Tileset 2_240
+  - first:
+      213: 2242860999709262037
+    second: Dungeon Ruins Tileset 2_241
+  - first:
+      213: -3872726313499681168
+    second: Dungeon Ruins Tileset 2_242
+  - first:
+      213: 2408240260198215099
+    second: Dungeon Ruins Tileset 2_245
+  - first:
+      213: -5989659041841929252
+    second: Dungeon Ruins Tileset 2_246
+  - first:
+      213: -1001289229826031672
+    second: Dungeon Ruins Tileset 2_247
+  - first:
+      213: 4253191426143327939
+    second: Dungeon Ruins Tileset 2_248
+  - first:
+      213: -931068587113616631
+    second: Dungeon Ruins Tileset 2_249
+  - first:
+      213: 370548060429551189
+    second: Dungeon Ruins Tileset 2_250
+  - first:
+      213: 1396310814521312113
+    second: Dungeon Ruins Tileset 2_251
+  - first:
+      213: -1502827841225904077
+    second: Dungeon Ruins Tileset 2_252
+  - first:
+      213: -363442523968324191
+    second: Dungeon Ruins Tileset 2_253
+  - first:
+      213: 637360159191008770
+    second: Dungeon Ruins Tileset 2_254
+  - first:
+      213: -4610640937999357908
+    second: Dungeon Ruins Tileset 2_255
+  - first:
+      213: 5073172420417296978
+    second: Dungeon Ruins Tileset 2_256
+  - first:
+      213: 3690379702913178342
+    second: Dungeon Ruins Tileset 2_257
+  - first:
+      213: -2841988188361335934
+    second: Dungeon Ruins Tileset 2_258
+  - first:
+      213: 623108023394508279
+    second: Dungeon Ruins Tileset 2_259
+  - first:
+      213: 2529867693268808545
+    second: Dungeon Ruins Tileset 2_260
+  - first:
+      213: -2410897074269508147
+    second: Dungeon Ruins Tileset 2_261
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4390eb03fcd2420800000000000000
+      internalID: 2606967567571039412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b50745dd964c20800000000000000
+      internalID: 3190410925383727059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62e3711fd5d090f0800000000000000
+      internalID: -1112153953913281940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea85a8ba1f23fced0800000000000000
+      internalID: -2391636863563966290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_4
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e6fde58ca83a90800000000000000
+      internalID: -7333922301949845427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6358939fe68fb7390800000000000000
+      internalID: -7819383172487346890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c075a38ec0cfe980800000000000000
+      internalID: -8507369177875124031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b92e6ba921c3d40800000000000000
+      internalID: 5565343695225658175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98891c6db79e3af40800000000000000
+      internalID: 5738687068293404809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dfe8a62a8899ac0800000000000000
+      internalID: -3847894175457542775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089535c70a86ffa40800000000000000
+      internalID: 5404153116357777792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50413d8c194a17710800000000000000
+      internalID: 1689312281287136261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca5fd41944c9a250800000000000000
+      internalID: 5956507800336030412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69fbe679b60c85c0800000000000000
+      internalID: -4211984157864363670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44799e51f94e7ba80800000000000000
+      internalID: -8451034803818883260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce253aa33940aef70800000000000000
+      internalID: 9217184617757627116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d67f12d67f2e070800000000000000
+      internalID: 8134335925077896524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c15ca5b92565630800000000000000
+      internalID: 3915407753241500791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7c81d7ad0af7a0800000000000000
+      internalID: -6342742110771577709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de67cfa26647ad0800000000000000
+      internalID: -2705425141332513442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d215147acf8090320800000000000000
+      internalID: 2524558947348730157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c038a4ab3a4e99290800000000000000
+      internalID: -7883018280879095028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeff5b0dddf9a490800000000000000
+      internalID: -7734371759211675937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de895ad157960a530800000000000000
+      internalID: 3864204432013367533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cff2167afad8b3a0800000000000000
+      internalID: -6649324080554901567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d3147c6b514f880800000000000000
+      internalID: -8578207515462779538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09cfeebc8bd25840800000000000000
+      internalID: 5211469116366375183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68bd979f45633d30800000000000000
+      internalID: 4409979852646365291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_28
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3320181c388b62760800000000000000
+      internalID: 7432831111048266291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53f04fd440cf9570800000000000000
+      internalID: 8475704425770447706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee60335d1ce718c0800000000000000
+      internalID: -4028491730965729555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd1eb847a5187a40800000000000000
+      internalID: 5366062764236086774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf20bd1cc3574e60800000000000000
+      internalID: 7946412203655049178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_33
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd2563dd8e0e9970800000000000000
+      internalID: 8763457927209364934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f223638d15c20f0800000000000000
+      internalID: -1140446616567533766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_35
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644a5310f8a9e7350800000000000000
+      internalID: 6016416091204854854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796fea45825d878f0800000000000000
+      internalID: -542449385901984105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8affba454c71b8680800000000000000
+      internalID: -8751875318862839896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0072d1a9318ea00800000000000000
+      internalID: 785899687611138302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51974139cf804d7d0800000000000000
+      internalID: -2894678779600013035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca513fb3a482f50f0800000000000000
+      internalID: -1126137082520857172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb966f0c3b46aaa30800000000000000
+      internalID: 4227301923439929791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921294377bbea22c0800000000000000
+      internalID: -4455489708183969495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9695d6ca75adb0670800000000000000
+      internalID: 8506132391309171049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45c195428591e960800000000000000
+      internalID: 7629543630487799119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fe4933fac047ac0800000000000000
+      internalID: -3858445034125463792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b8852a4fc6ce180800000000000000
+      internalID: -9084766550361601171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856a8f085136c8a00800000000000000
+      internalID: 760091381128013400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98291033e1e885600800000000000000
+      internalID: 457271622534009481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0509e3c831c81dd30800000000000000
+      internalID: 4454495522031308880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_50
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be97dcc51d484080800000000000000
+      internalID: -9203021082505273671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ab182e3490a10f0800000000000000
+      internalID: -1145592968044758516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbaef8dcaa9560d0800000000000000
+      internalID: -3430165474007143471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_53
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c3f9648ca352910800000000000000
+      internalID: 1811919056939203726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_54
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe3fb15810e21600800000000000000
+      internalID: 437658508863684351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afb552774d980d90800000000000000
+      internalID: -7131277079754719324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_56
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c042a383ffd5a80800000000000000
+      internalID: -8476338306682712950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_57
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522c79d7c3bc36d10800000000000000
+      internalID: 2117759710459839013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e62930387ff3770800000000000000
+      internalID: 8592858756118900383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a02de17e3ef720800000000000000
+      internalID: 2881809470594263454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8968f75f3d84c80800000000000000
+      internalID: -8338181658716497691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15168c287b78e1530800000000000000
+      internalID: 3827645955554435409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f6cc5d5df30dbd0800000000000000
+      internalID: -2607513996599988379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad4d4dc596caa90800000000000000
+      internalID: -7301345048445789657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfcd43a2f7dbb990800000000000000
+      internalID: -7369058928139841588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504e85d4674b34e70800000000000000
+      internalID: 9098314092415345669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b2d8a5e62ffc990800000000000000
+      internalID: -7363400309947946197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_68
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3ca92ba1703b170800000000000000
+      internalID: 8192899958364095461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_70
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22db58fa2591ce00800000000000000
+      internalID: 1063294998824079916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_71
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62521dbb570e1c970800000000000000
+      internalID: 8773540345361278246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_72
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcb66c6d3e9fb1d0800000000000000
+      internalID: -3332771212582011719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_73
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fe5f7440bcc0fe0800000000000000
+      internalID: -1221378179676639449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900310d601d770950800000000000000
+      internalID: 6415233703714304009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c465ebc2ba97120800000000000000
+      internalID: 2412147284093848606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bed6a77fdb968ac0800000000000000
+      internalID: -3853221047081443661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_85
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156491940bfcd1e40800000000000000
+      internalID: 5628883465330574929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_86
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885560a1bac028c40800000000000000
+      internalID: 5512982822870472072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ed7cb0c9d9eb310800000000000000
+      internalID: 1422747825833762430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc52653c9cce42e0800000000000000
+      internalID: -2139547801671803714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcd92c02f53cccf0800000000000000
+      internalID: -230750167200310022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9182204cded3cbac0800000000000000
+      internalID: -3838124691021486055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_92
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04562330b3667e980800000000000000
+      internalID: -8509720567250524864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085d32c7450d37880800000000000000
+      internalID: -8614312600951073408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069e904fb43800490800000000000000
+      internalID: -7782075793856140960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_95
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7911b51c916caa350800000000000000
+      internalID: 6028848865109283223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_96
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8c5879658662c50800000000000000
+      internalID: 6640109421722978539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_97
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2110271d38de19920800000000000000
+      internalID: 2995436377588498706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_98
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d52468527819950800000000000000
+      internalID: 6454088336234667375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5f85de07fb95b00800000000000000
+      internalID: 817895299083728367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379c0f32e04ba9d90800000000000000
+      internalID: -7090156690515900045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_102
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edc79ce157445b70800000000000000
+      internalID: 8886806381896125928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9e64f9d2f31e1a0800000000000000
+      internalID: -6782070098664953364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67119596281f45840800000000000000
+      internalID: 5212056211189993846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_106
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e702ebe59e71bfe0800000000000000
+      internalID: -1175018845394303003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_108
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c146facc807db940800000000000000
+      internalID: 5313526885369921991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d97d953d181d180800000000000000
+      internalID: -9092343427938935524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c0573c71f8ebf40800000000000000
+      internalID: 5746187506797579312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e6b91fa05ce7b00800000000000000
+      internalID: 828316032276590095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8124eaff3df13c0800000000000000
+      internalID: -4386554416941885227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4957a25764d94590800000000000000
+      internalID: -7689381348524992177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6149d4ae786a4c10800000000000000
+      internalID: 2038556674479440237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_122
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a47a649a994b440800000000000000
+      internalID: 4950750842700909195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7c6960a89b7490800000000000000
+      internalID: -7747430919229899887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_124
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f92165c7f696070800000000000000
+      internalID: 8100127984613236511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d3f49dc67cc9350800000000000000
+      internalID: 6024909671831125268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_126
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0d3b8172f88f030800000000000000
+      internalID: 3528727706125717703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_127
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ec36ba31156f010800000000000000
+      internalID: 1222253493799341625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_128
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4b6bc8c71bb55c0800000000000000
+      internalID: -4225588676862233350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb2cd78d03a5ba0800000000000000
+      internalID: -6099509038938931220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_130
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df86d02034a6b9c0800000000000000
+      internalID: -3911758699708379184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_131
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b1bbe3f8652f660800000000000000
+      internalID: 7418086709465389849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_132
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7bbfd95fc51d30800000000000000
+      internalID: 4401652195737173957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_133
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52920f7ef86decb80800000000000000
+      internalID: -8372518743675229915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_134
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88defe1110edf8840800000000000000
+      internalID: 5228641788577705352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_135
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de28a2401b41266c0800000000000000
+      internalID: -4151733155970514195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_136
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f112083654ce1fdb0800000000000000
+      internalID: -4759763548387663585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_137
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90730b669e190240800000000000000
+      internalID: 4758368112682954908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b027754f402d899a0800000000000000
+      internalID: -6225995566118637045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be268181da9885cd0800000000000000
+      internalID: -2569152210888269077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_142
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aabef54547b16e00800000000000000
+      internalID: 1036310897426872999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_146
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b4d6bfa13c91e40800000000000000
+      internalID: 5627743730030955361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2b41d7c3cd45ea0800000000000000
+      internalID: -5884836660711738672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0f6324c6f7efd90800000000000000
+      internalID: -7062067062726266629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_149
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc1c80371c859d70800000000000000
+      internalID: 9049293057497505016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03b21dd987434f90800000000000000
+      internalID: -6970649140794313974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_151
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f1d5f1c6177d7e0800000000000000
+      internalID: -1740798021758804167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbc6e395781baec0800000000000000
+      internalID: -3554720587607258116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_153
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcd24cafd9e9c5d0800000000000000
+      internalID: -3041642926435017516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_154
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245f38236cb953fa0800000000000000
+      internalID: -5821575667753159358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_155
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c860a1249b300970800000000000000
+      internalID: 8719034385994639556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd97bcda40ad1850800000000000000
+      internalID: 6349407293053312460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_157
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7024f2ea0a55acb20800000000000000
+      internalID: 3155428637531914759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_158
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f37088f28ebc090800000000000000
+      internalID: -8013055821132382323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_159
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e11e7dd1e0c1350800000000000000
+      internalID: 5988677125834612275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_160
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e314b2225c0b0f8d0800000000000000
+      internalID: -2814555406378254018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_161
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65dd9e0e2ef48f50800000000000000
+      internalID: 6882905604296136043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f55197d92a33e30800000000000000
+      internalID: 4482104851388784487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_163
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82e3830e54a0aad0800000000000000
+      internalID: -2692971853474700662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f283d7e58c278d660800000000000000
+      internalID: 7410799391742441519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_165
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad43f8f5b3ddc450800000000000000
+      internalID: 6110773047930867109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_166
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332a2d61c482e4fb0800000000000000
+      internalID: -4661744257016356301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3941b20fea7bf90800000000000000
+      internalID: -6937884354402806796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_168
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6816d1c6d94a5e0800000000000000
+      internalID: -1899220055168547155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_169
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a61cd85d4d1b2400800000000000000
+      internalID: 300366018190775972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_170
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27185f264d09ca40800000000000000
+      internalID: 5388853024218683179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_171
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22221dd792b79e330800000000000000
+      internalID: 3740656383642640930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_173
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68abe3d7d41bb3f0800000000000000
+      internalID: -884089984642209683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_174
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e140ab914a64ceb90800000000000000
+      internalID: -7211311232706804706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f810e09b32387e0800000000000000
+      internalID: -1764527351288197308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_176
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7800318bdef4e7110800000000000000
+      internalID: 1260532828124414087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf6afbe5172234b0800000000000000
+      internalID: -5462260422940135474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_178
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee53c41820d4aad0800000000000000
+      internalID: -2691797806695096600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9ad75401880d9b0800000000000000
+      internalID: -5057392778070349381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_180
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3f32999b3176ca0800000000000000
+      internalID: -6023824288725601302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_181
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658de16dd9b307140800000000000000
+      internalID: 4715334358945159254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_182
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2640bd2a7c3f0dc10800000000000000
+      internalID: 2076427466974102626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_183
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062876f6cefa4dcb0800000000000000
+      internalID: -4840050269500243360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_184
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a71d506831184a0800000000000000
+      internalID: -6592966913149535727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_185
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dc0391d898be4d0800000000000000
+      internalID: -3104236279035802276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_186
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25807c5bbdef45f0800000000000000
+      internalID: -770135622291520210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_187
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8b7698472f68eb0800000000000000
+      internalID: -4717816977288611662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_188
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50a3351cbe471c60800000000000000
+      internalID: 7788780650277085276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_189
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266ceac785ca151a0800000000000000
+      internalID: -6822482464440662430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_190
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e57a86c4aed8b80800000000000000
+      internalID: -8390792916827152745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_191
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b782cca14a6fdd4d0800000000000000
+      internalID: -3108056983131117445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_192
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353305932d74fa4c0800000000000000
+      internalID: -4274118553121049773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_193
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b75a78dbf8e4680800000000000000
+      internalID: -8768913380256416972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_194
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06b6bfa92e873ae0800000000000000
+      internalID: -1569629635422538228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_195
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b148f32d3d1c49200800000000000000
+      internalID: 185986600138671131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c277eaea099becda0800000000000000
+      internalID: -5922592428888525012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_197
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5273c551aa3aeaaa0800000000000000
+      internalID: -6147796490416015579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_198
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c10202a2a035b0800000000000000
+      internalID: -5390629937260411193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_199
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42afb09a3d6cea70800000000000000
+      internalID: 8857574665434931788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_200
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd0f47d4032fea0800000000000000
+      internalID: -5840552657513554871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_201
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0d6a6dd01737a70800000000000000
+      internalID: 8823520399198703809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_202
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca80b7ecaed8b7fa0800000000000000
+      internalID: -5801887655310718804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_203
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2826b6be8e01bd440800000000000000
+      internalID: 4961578007046873730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_204
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4776870c0cdafb6f0800000000000000
+      internalID: -666623176453101708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_206
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ce2d02e5679ffa0800000000000000
+      internalID: -5766447701221512036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_207
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75b7f52c5fa33ff0800000000000000
+      internalID: -57509559916841605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_208
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e78295fe9e230d0800000000000000
+      internalID: -3444433550782726536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_209
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824ae4e16802d6c10800000000000000
+      internalID: 2048329165929620520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8454559d894144a0800000000000000
+      internalID: -6610921905558629236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_211
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4504916f4fd3bc0800000000000000
+      internalID: -3801613172608052035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_212
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebcd200aed576140800000000000000
+      internalID: 4712838794673245156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db58521045a93830800000000000000
+      internalID: 4051451034400742355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_214
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2d5eab4e0c1040800000000000000
+      internalID: 4619583035985964929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_215
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4664cd03f0ad440800000000000000
+      internalID: 4961294642030470318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_216
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a6c1478dd8acb70800000000000000
+      internalID: 8920097972761160270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_217
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b850dbdf4c3051ed0800000000000000
+      internalID: -2444043078173129333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_218
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386155717570bbad0800000000000000
+      internalID: -2685544682161367421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_219
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a207ea265dbc1d80800000000000000
+      internalID: -8278533837229194585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_220
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8599fa6854f206220800000000000000
+      internalID: 2477031770712676696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_221
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf2dbb059ee4f6c0800000000000000
+      internalID: -4110398235967934527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_222
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250c83f4d10257670800000000000000
+      internalID: 8535763979005902930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_223
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87797259ffc1542d0800000000000000
+      internalID: -3295195668307011720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_224
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8114e1f48599b5f0800000000000000
+      internalID: -740396265499258482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_225
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc0d2ee6ce89a6d0800000000000000
+      internalID: -2978692693478273833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_226
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835453ed2d3c50b10800000000000000
+      internalID: 1947177724346189112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_227
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af378d1bb6a1c2c40800000000000000
+      internalID: 5488791095705367546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_229
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709c1ff88ea829580800000000000000
+      internalID: -8821835988613347065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_230
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2003bb8ab049080800000000000000
+      internalID: -9181700920978701663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_231
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd7aa12a9ebd3f50800000000000000
+      internalID: 6862850976381566402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_232
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9dd1daaf527ab00800000000000000
+      internalID: 839681614104353275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_233
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cce6d799080ae10800000000000000
+      internalID: 2206905214134307890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_234
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b2dfbf32fae7950800000000000000
+      internalID: 6448784285527518007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_235
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b505bc94fda77f110800000000000000
+      internalID: 1294638517326663771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_237
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f395a50e54f90ad40800000000000000
+      internalID: 5593645859659733311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_238
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d1c8ad203e59d0800000000000000
+      internalID: -2783734547005451723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_239
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f72b87d03806bee0800000000000000
+      internalID: -1245799241053689865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_240
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37162c5d6e9cd7910800000000000000
+      internalID: 1836846216302977395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_241
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d08f30323e302f10800000000000000
+      internalID: 2242860999709262037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_242
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e1b8bbfef414ac0800000000000000
+      internalID: -3872726313499681168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_245
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbda8ead1c9cb6120800000000000000
+      internalID: 2408240260198215099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_246
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd32e4506d470eca0800000000000000
+      internalID: -5989659041841929252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_247
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf7bc220c4ba12f0800000000000000
+      internalID: -1001289229826031672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_248
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c69205511f560b30800000000000000
+      internalID: 4253191426143327939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_249
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b61939d0e2413f0800000000000000
+      internalID: -931068587113616631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5560d1a6f73742500800000000000000
+      internalID: 370548060429551189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_251
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173449fa941b06310800000000000000
+      internalID: 1396310814521312113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_252
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b92d6a02e42be0800000000000000
+      internalID: -1502827841225904077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_253
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adb89633fac4faf0800000000000000
+      internalID: -363442523968324191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_254
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206019a10bb58d800800000000000000
+      internalID: 637360159191008770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_255
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28acafbe76b300c0800000000000000
+      internalID: -4610640937999357908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_256
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a18430077876640800000000000000
+      internalID: 5073172420417296978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_257
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea937e89ccd63330800000000000000
+      internalID: 3690379702913178342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_258
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bddd8dcca3f88d0800000000000000
+      internalID: -2841988188361335934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_259
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd10272279b5a800800000000000000
+      internalID: 623108023394508279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_260
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16336026345eb1320800000000000000
+      internalID: 2529867693268808545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dungeon Ruins Tileset 2_261
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd232a62e5ca8ed0800000000000000
+      internalID: -2410897074269508147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
