@@ -46,7 +46,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1009217769
 Transform:
   m_ObjectHideFlags: 0
@@ -271,7 +271,7 @@ MonoBehaviour:
   isDashing: 0
   totalDashTime: 0.2
   dashSpeed: 60
-  dashSensitivity: 100
+  dashSensitivity: 90
   dashCoolDown: 1.65
   fallMultiplier: 2.5
   lowJumpMultiplier: 2
@@ -280,7 +280,7 @@ MonoBehaviour:
   totalFallJumpInputTime: 0.2
   inHurtForce: 0
   spawnBoxTime: 3
-  spawnBoxSensitivity: 100
+  spawnBoxSensitivity: 90
   myBox: {fileID: 1987089550659791672, guid: 9832d68b632d3b146b0f7e41da235376, type: 3}
   SpawnBox_Position: {fileID: 424062801}
   DestroyBox_Time: 5

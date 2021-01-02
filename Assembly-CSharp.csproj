@@ -70,6 +70,8 @@
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
+    <Compile Include="Assets\Scripts\AudioScripts\AudioManager.cs" />
+    <Compile Include="Assets\Scripts\AudioScripts\Sound.cs" />
     <Compile Include="Assets\Scripts\BoxScripts\Box.cs" />
     <Compile Include="Assets\Scripts\ButtonScript\ButtonScript.cs" />
     <Compile Include="Assets\Scripts\CameraScripts\CamTransitionScript.cs" />
@@ -101,7 +103,7 @@
     <Compile Include="Assets\Scripts\GameMasterScript\CheckPoint\CheckPoint.cs" />
     <Compile Include="Assets\Scripts\GameMasterScript\GameMaster.cs" />
     <Compile Include="Assets\Scripts\GateScripts\GateScript.cs" />
-    <Compile Include="Assets\Scripts\GoldScripts\EndGame.cs" />
+    <Compile Include="Assets\Scripts\GoldScripts\CoinScript.cs" />
     <Compile Include="Assets\Scripts\MovingPlatformScript\MovingPlatform.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\HurtForceVariables.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\Movement.cs" />
@@ -115,8 +117,9 @@
     <Compile Include="Assets\Scripts\QuestPointerScripts\targetIndicator.cs" />
     <Compile Include="Assets\Scripts\TimeManagerScript\TimeManagerScript.cs" />
     <Compile Include="Assets\Scripts\UIButtonScript\MainMenuScript.cs" />
-    <Compile Include="Assets\Scripts\UIScripts\FinalScene.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\GoldCounter.cs" />
     <Compile Include="Assets\Scripts\UIScripts\PauseMenu.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\SoundButtons.cs" />
     <Compile Include="Assets\Scripts\UIScripts\SpellCooldown.cs" />
     <Compile Include="Assets\Scripts\WindowQuestPointer\window_QuestPointer.cs" />
     <Compile Include="Assets\Scripts\killZoneScript\killZone.cs" />

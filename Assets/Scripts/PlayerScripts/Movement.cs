@@ -1,13 +1,13 @@
-﻿using System.Collections;
+﻿//using System.Collections;
 using System.Collections.Generic;
-using System.IO.IsolatedStorage;
+//using System.IO.IsolatedStorage;
 using UnityEditor;
 //using UnityEditor.UI;
 using UnityEngine.UI;
 using UnityEngine;
-using UnityEngine.EventSystems;
-using System.Xml.Schema;
-using System.CodeDom;
+//using UnityEngine.EventSystems;
+//using System.Xml.Schema;
+//using System.CodeDom;
 
 public class Movement : MonoBehaviour
 {
@@ -87,6 +87,8 @@ public class Movement : MonoBehaviour
 
     PlayerCombat playerCombatScript;
 
+    bool dashStarted = false;
+
 
     void Start()
     {
@@ -107,6 +109,9 @@ public class Movement : MonoBehaviour
         Check_inHurtForce();
 
         Inputs_And_Movements();
+
+        if (!GetComponent<Animator>().GetCurrentAnimatorStateInfo(0).IsName("Dash"))
+            dashStarted = false;
 
     }
 
@@ -207,7 +212,7 @@ public class Movement : MonoBehaviour
                         JumpInputTimer = totalJumpInputTime;
                         stillJump = true;
 
-                        playerCombatScript.comingJumpInput = true; // checking run input for attack touch
+                        playerCombatScript.comingJumpInput = true;                    // checking run input for attack touch
                     }
 
                     if (touch[i].phase == TouchPhase.Stationary)
@@ -257,6 +262,7 @@ public class Movement : MonoBehaviour
                             canDestroyableObject = Instantiate(myBox, SpawnBox_Position.position, SpawnBox_Position.rotation);
                             boxes.Enqueue(canDestroyableObject);
                             spawnBoxTime_Counter = spawnBoxTime;
+                            FindObjectOfType<AudioManager>().Play("SpawnBox");
                             Invoke("DestroyLastBox", DestroyBox_Time);
                         }
 
@@ -368,6 +374,20 @@ public class Movement : MonoBehaviour
     {
         npc = null;
         canTalkWithNPC = true;
+    }
+
+    public void playJumpSound()
+    {
+        FindObjectOfType<AudioManager>().Play("JumpSound");
+    }
+
+    public void playDashSound()
+    {
+        if (!dashStarted)
+        {
+            FindObjectOfType<AudioManager>().Play("DashSound");
+            dashStarted = true;
+        }
     }
 
 

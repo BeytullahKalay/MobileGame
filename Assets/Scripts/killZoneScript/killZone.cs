@@ -9,6 +9,7 @@ public class killZone : MonoBehaviour
         if (collision.collider.tag == "killZone")
         {
             GetComponentInParent<healthSystem>().TakeDamage(10);
+            FindObjectOfType<AudioManager>().Play("Hurt");
         }
     }
 }

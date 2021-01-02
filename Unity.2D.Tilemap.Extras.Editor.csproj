@@ -645,11 +645,11 @@
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
       <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>

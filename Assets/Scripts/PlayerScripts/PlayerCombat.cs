@@ -61,21 +61,25 @@ public class PlayerCombat : MonoBehaviour
             if (enemy.tag == "SlimeEnemy")
             {
                 enemy.GetComponentInChildren<EnemySlimeHealthSystem>().TakeDamage(AttackDamage);
+                FindObjectOfType<AudioManager>().Play("enemyHit");
             }
 
             if (enemy.tag == "RobotEnemy")
             {
                 enemy.GetComponent<EnemyRobotHealthSystem>().TakeDamage(AttackDamage);
+                FindObjectOfType<AudioManager>().Play("enemyHit");
             }
 
             if (enemy.tag == "EyeBallMonster")
             {
                 enemy.GetComponentInChildren<EyeBall_HealthSystem>().TakeDamage(AttackDamage);
+                FindObjectOfType<AudioManager>().Play("enemyHit");
             }
 
             if (enemy.tag == "BatEnemy")
             {
                 enemy.GetComponentInChildren<Bat_HealthSystem>().TakeDamage(AttackDamage);
+                FindObjectOfType<AudioManager>().Play("enemyHit");
             }
         }
     }

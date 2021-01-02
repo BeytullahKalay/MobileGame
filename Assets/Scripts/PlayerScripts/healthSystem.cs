@@ -38,6 +38,9 @@ public class healthSystem : MonoBehaviour
         //Playin Hurt anim
         GetComponentInChildren<PlayerInvisScript>().setDamageTaken();
 
+        //HurtSound
+        FindObjectOfType<AudioManager>().Play("Hurt");
+
         if (currentHealt <= 0)
         {
             //Play Death anim

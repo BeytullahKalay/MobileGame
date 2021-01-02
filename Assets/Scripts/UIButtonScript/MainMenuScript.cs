@@ -14,16 +14,10 @@ public class MainMenuScript : MonoBehaviour
     {
         gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameMaster>();
         startPosVec = startPos.position;
-
-        gm.lastCheckPointPos.x = PlayerPrefs.GetFloat("PosX");
-        gm.lastCheckPointPos.y = PlayerPrefs.GetFloat("PosY");
     }
 
     private void Update()
     {
-        Debug.Log(PlayerPrefs.GetFloat("PosX"));
-        Debug.Log(PlayerPrefs.GetFloat("PosY"));
-
         if (gm.lastCheckPointPos == startPosVec || gm.lastCheckPointPos == new Vector2(0,0))
         {
             ContinueButton.SetActive(false);
@@ -38,9 +32,6 @@ public class MainMenuScript : MonoBehaviour
         Vector2 startPos;
         startPos = new Vector2(-18.63f, -1.92f); //first check point pos
         gm.lastCheckPointPos = startPos;
-
-        Debug.Log(PlayerPrefs.GetFloat("PosX"));
-        Debug.Log(PlayerPrefs.GetFloat("PosY"));
     }
 
     public void LoadGame() //Continue
