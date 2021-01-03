@@ -81,6 +81,7 @@
     <Compile Include="Assets\Scripts\DialogueSystem\DialogueHolder.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem\DialogueLine.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem\NPC_Controller.cs" />
+    <Compile Include="Assets\Scripts\DialogueSystem\NPC_Flip.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\BatScripts\BatAI.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\BatScripts\BatTriggerAreaScript.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\BatScripts\Bat_HealthSystem.cs" />
@@ -105,6 +106,7 @@
     <Compile Include="Assets\Scripts\GateScripts\GateScript.cs" />
     <Compile Include="Assets\Scripts\GoldScripts\CoinScript.cs" />
     <Compile Include="Assets\Scripts\MovingPlatformScript\MovingPlatform.cs" />
+    <Compile Include="Assets\Scripts\PlayerScripts\GoldAndCheckPoints.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\HurtForceVariables.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\Movement.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\ParticlesScript.cs" />
@@ -118,6 +120,7 @@
     <Compile Include="Assets\Scripts\TimeManagerScript\TimeManagerScript.cs" />
     <Compile Include="Assets\Scripts\UIButtonScript\MainMenuScript.cs" />
     <Compile Include="Assets\Scripts\UIScripts\GoldCounter.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\OpenSceneTextManager.cs" />
     <Compile Include="Assets\Scripts\UIScripts\PauseMenu.cs" />
     <Compile Include="Assets\Scripts\UIScripts\SoundButtons.cs" />
     <Compile Include="Assets\Scripts\UIScripts\SpellCooldown.cs" />

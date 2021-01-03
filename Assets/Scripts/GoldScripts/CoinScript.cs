@@ -9,7 +9,7 @@ public class CoinScript : MonoBehaviour
         {
             counterScript.increaseTheScore();
             FindObjectOfType<AudioManager>().Play("Coin");
-            Destroy(gameObject);
+            gameObject.SetActive(false);
         }
     }
 }

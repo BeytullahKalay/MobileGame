@@ -8,6 +8,7 @@ public class PauseMenu : MonoBehaviour
     public static bool GameIsPaused = false;
     public GameObject pauseMenuUI;
     public GameObject pauseButton;
+    public GameObject playButton;
     public TimeManagerScript timeManager;
 
     void Update()
@@ -22,12 +23,14 @@ public class PauseMenu : MonoBehaviour
     {
         GameIsPaused = true;
         pauseButton.SetActive(false);
+        playButton.SetActive(true);
     }
 
     public void ResumeGame() //Button func
     {
         GameIsPaused = false;
         pauseButton.SetActive(true);
+        playButton.SetActive(false);
     }
 
     public void MainMenu() //Button func

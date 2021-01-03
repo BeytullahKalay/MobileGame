@@ -21,4 +21,9 @@ public class GoldCounter : MonoBehaviour
     {
         countGold++;
     }
+
+    public void decreaseTheScore()
+    {
+        countGold--;
+    }
 }

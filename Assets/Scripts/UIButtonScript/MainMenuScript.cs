@@ -36,7 +36,7 @@ public class MainMenuScript : MonoBehaviour
 
     public void LoadGame() //Continue
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //loading next scene
+        SceneManager.LoadScene("Scenes/Game"); //loading next scene
         Vector2 startPos;
         startPos = new Vector2(PlayerPrefs.GetFloat("PosX"), PlayerPrefs.GetFloat("PosY"));
         gm.lastCheckPointPos = startPos;

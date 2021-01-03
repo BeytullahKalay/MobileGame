@@ -15,16 +15,6 @@ namespace DialogueSysyem
             StartCoroutine(dialogueSeq);
         }
 
-        private void Update()
-        {
-            //if (pressed skip button) //if this condition is true then skip the dialogue (SkippAlDialogue)
-            //{
-            //Deactivate();
-            //gameObject.SetActive(false);
-            //StopCoroutine(dialogueSeq);
-            //}
-        }
-
         private IEnumerator dialogueSequence()
         {
             if (!dialogueFinished)
