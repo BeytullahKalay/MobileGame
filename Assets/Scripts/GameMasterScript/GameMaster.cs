@@ -14,5 +14,8 @@ public class GameMaster : MonoBehaviour
         }
         else
             Destroy(gameObject);
+
+        lastCheckPointPos.x = PlayerPrefs.GetFloat("PosX");
+        lastCheckPointPos.y = PlayerPrefs.GetFloat("PosY");
     }
 }

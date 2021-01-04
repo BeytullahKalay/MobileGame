@@ -21,14 +21,10 @@ public class OpenSceneTextManager : MonoBehaviour
     private void Update()
     {
         if (textDisplay.text == sentences[index])
-        {
             continueButton.SetActive(true);
-        }
-
+        
         if (index > 1)
-        {
             skippAllButton.SetActive(true);
-        }
     }
 
 
@@ -51,9 +47,7 @@ public class OpenSceneTextManager : MonoBehaviour
             StartCoroutine(Type());
         }
         else
-        {
             textDisplay.text = "";
-        }
     }
 
     public void skipAll()

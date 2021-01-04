@@ -45,7 +45,6 @@ namespace DialogueSysyem
                 transform.GetChild(i).gameObject.SetActive(false);
             }
         }
-
         public void SkippAlDialogue()
         {
             Deactivate();
@@ -54,5 +53,3 @@ namespace DialogueSysyem
         }
     }
 }
-
-

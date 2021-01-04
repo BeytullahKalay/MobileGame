@@ -13,6 +13,4 @@ public class NPC_Controller : MonoBehaviour
     {
         return dialogue.activeInHierarchy;
     }
-
-
 }

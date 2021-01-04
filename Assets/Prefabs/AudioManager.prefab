@@ -52,7 +52,7 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: DashSound
     clip: {fileID: 8300000, guid: 9e77f1a62e0fba34bb296c830bb0609c, type: 3}
-    volume: 0.15
+    volume: 0.8
     pitch: 1.5
     loop: 0
     source: {fileID: 0}
