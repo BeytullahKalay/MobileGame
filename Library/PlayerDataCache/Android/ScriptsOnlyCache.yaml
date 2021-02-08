@@ -10,6 +10,7 @@ ScriptsOnlyBuild:
     - CoinScript
     - DialogueSysyem.DialogueHolder
     - DialogueSysyem.DialogueLine
+    - DisableSwipes
     - EnemyColliderScript
     - EnemySlimeHealthSystem
     - FloatingJoystick
@@ -247,6 +248,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 14816}
     - Class: 114
       Script: {instanceID: 14818}
+    - Class: 114
+      Script: {instanceID: 14898}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1770,6 +1773,12 @@ ScriptsOnlyBuild:
     className: ToggleGroup
   - hash:
       serializedVersion: 2
+      Hash: 4e4ab298f45a593a859c904504deea35
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DisableSwipes
+  - hash:
+      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1779,4 +1788,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Opening.unity
   - Assets/Scenes/Game.unity
-  playerPath: D:/Unity Saves/2DMobileGame/Builds/Version 1.0/10.0.apk
+  playerPath: D:/Unity Saves/2DMobileGame/Builds/1.1.apk
