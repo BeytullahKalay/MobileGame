@@ -106,6 +106,7 @@
     <Compile Include="Assets\Scripts\GateScripts\GateScript.cs" />
     <Compile Include="Assets\Scripts\GoldScripts\CoinScript.cs" />
     <Compile Include="Assets\Scripts\MovingPlatformScript\MovingPlatform.cs" />
+    <Compile Include="Assets\Scripts\PlanetVisibilityScripts\PlanetVisibility.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\GoldAndCheckPoints.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\HurtForceVariables.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\Movement.cs" />

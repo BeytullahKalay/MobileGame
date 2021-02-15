@@ -13,6 +13,8 @@ public class OpenSceneTextManager : MonoBehaviour
     public GameObject continueButton;
     public GameObject skippAllButton;
 
+    [HideInInspector] public bool _pressedButton;
+
     private void Start()
     {
         StartCoroutine(Type());
@@ -47,7 +49,12 @@ public class OpenSceneTextManager : MonoBehaviour
             StartCoroutine(Type());
         }
         else
+        {
             textDisplay.text = "";
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        }
+
+        _pressedButton = true;
     }
 
     public void skipAll()
