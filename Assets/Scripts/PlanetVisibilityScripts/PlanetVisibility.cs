@@ -30,27 +30,37 @@ public class PlanetVisibility : MonoBehaviour
         if (_buttonPressCounter == 0)
         {
             _tempColor = _planets[_buttonPressCounter].color;
-            _tempColor.a += _animationSpeed * Time.deltaTime;
-            _planets[_buttonPressCounter].color = _tempColor;
+            if (_tempColor.a < 255)
+            {
+                _tempColor.a += _animationSpeed * Time.deltaTime;
+                _planets[_buttonPressCounter].color = _tempColor;
+            }
 
             _tempColor = _planets[_planets.Length - 1].color;
-            _tempColor.a -= (_animationSpeed + _increasingInvisibiltySpeed) * Time.deltaTime;
-            _planets[_planets.Length - 1].color = _tempColor;
+            if (_tempColor.a > 0)
+            {
+                _tempColor.a -= (_animationSpeed + _increasingInvisibiltySpeed) * Time.deltaTime;
+                _planets[_planets.Length - 1].color = _tempColor;
+            }
 
         }
 
         if (_buttonPressCounter != 0)
         {
             _tempColor = _planets[_buttonPressCounter - 1].color;
-            _tempColor.a -= (_animationSpeed + _increasingInvisibiltySpeed) * Time.deltaTime;
-            _planets[_buttonPressCounter - 1].color = _tempColor;
+            if (_tempColor.a > 0)
+            {
+                _tempColor.a -= (_animationSpeed + _increasingInvisibiltySpeed) * Time.deltaTime;
+                _planets[_buttonPressCounter - 1].color = _tempColor;
+            }
 
 
             _tempColor = _planets[_buttonPressCounter].color;
-            _tempColor.a += _animationSpeed * Time.deltaTime;
-            _planets[_buttonPressCounter].color = _tempColor;
-
-
+            if (_tempColor.a < 255)
+            {
+                _tempColor.a += _animationSpeed * Time.deltaTime;
+                _planets[_buttonPressCounter].color = _tempColor;
+            }
         }
     }
 }
