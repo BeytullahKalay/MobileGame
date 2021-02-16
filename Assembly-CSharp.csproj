@@ -119,7 +119,7 @@
     <Compile Include="Assets\Scripts\PlayerScripts\healthSystem.cs" />
     <Compile Include="Assets\Scripts\QuestPointerScripts\targetIndicator.cs" />
     <Compile Include="Assets\Scripts\TimeManagerScript\TimeManagerScript.cs" />
-    <Compile Include="Assets\Scripts\TutorialScripts\DisableSwipes.cs" />
+    <Compile Include="Assets\Scripts\TutorialScripts\TutorialsInfo.cs" />
     <Compile Include="Assets\Scripts\UIButtonScript\MainMenuScript.cs" />
     <Compile Include="Assets\Scripts\UIScripts\GoldCounter.cs" />
     <Compile Include="Assets\Scripts\UIScripts\OpenSceneTextManager.cs" />

@@ -19,6 +19,5 @@ public class TimeManagerScript : MonoBehaviour
     {
         Time.timeScale = slowdownFactor;
         Time.fixedDeltaTime = Time.timeScale * .02f;
-        Debug.Log("Slow mo!");
     }
 }

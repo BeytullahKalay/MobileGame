@@ -18,7 +18,6 @@ public class SoundButtons : MonoBehaviour
 
     public void muteSound()
     {
-        Debug.Log("Sound Muted");
         soundButton.gameObject.SetActive(false);
         muteSoundButton.gameObject.SetActive(true);
         sceneMusic.mute = true;
@@ -27,7 +26,6 @@ public class SoundButtons : MonoBehaviour
 
     public void unMuteSound()
     {
-        Debug.Log("Sound Unmuted");
         soundButton.gameObject.SetActive(true);
         muteSoundButton.gameObject.SetActive(false);
         sceneMusic.mute = false;

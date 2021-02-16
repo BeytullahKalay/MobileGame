@@ -12,7 +12,7 @@ public class CamTransitionScript : MonoBehaviour
     [HideInInspector] public bool playerInRange;
 
     public float cameMoveSpeed = 5f;
-    public bool activeScene;
+    [HideInInspector] public bool activeScene;
 
     private void Start()
     {
