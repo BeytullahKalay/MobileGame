@@ -28,6 +28,7 @@ ScriptsOnlyBuild:
     - OpenSceneTextManager
     - ParticlesScript
     - PauseMenu
+    - PlanetVisibility
     - PlayerAnimatorController
     - PlayerCombat
     - PlayerInvisScript
@@ -201,55 +202,55 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13464}
     - Class: 114
-      Script: {instanceID: 13508}
+      Script: {instanceID: 13510}
     - Class: 114
-      Script: {instanceID: 13580}
+      Script: {instanceID: 13582}
     - Class: 114
-      Script: {instanceID: 13692}
+      Script: {instanceID: 13694}
     - Class: 114
-      Script: {instanceID: 13720}
+      Script: {instanceID: 13722}
     - Class: 114
-      Script: {instanceID: 13872}
+      Script: {instanceID: 13874}
     - Class: 114
-      Script: {instanceID: 13890}
+      Script: {instanceID: 13892}
     - Class: 114
-      Script: {instanceID: 13988}
+      Script: {instanceID: 13990}
     - Class: 114
-      Script: {instanceID: 14092}
+      Script: {instanceID: 14094}
     - Class: 114
-      Script: {instanceID: 14096}
+      Script: {instanceID: 14098}
     - Class: 114
-      Script: {instanceID: 14108}
+      Script: {instanceID: 14110}
     - Class: 114
-      Script: {instanceID: 14288}
+      Script: {instanceID: 14290}
     - Class: 114
-      Script: {instanceID: 14346}
+      Script: {instanceID: 14348}
     - Class: 114
-      Script: {instanceID: 14440}
+      Script: {instanceID: 14442}
     - Class: 114
-      Script: {instanceID: 14474}
+      Script: {instanceID: 14476}
     - Class: 114
-      Script: {instanceID: 14542}
+      Script: {instanceID: 14544}
     - Class: 114
-      Script: {instanceID: 14610}
+      Script: {instanceID: 14612}
     - Class: 114
-      Script: {instanceID: 14626}
+      Script: {instanceID: 14628}
     - Class: 114
-      Script: {instanceID: 14632}
+      Script: {instanceID: 14634}
     - Class: 114
-      Script: {instanceID: 14734}
+      Script: {instanceID: 14736}
     - Class: 114
-      Script: {instanceID: 14756}
+      Script: {instanceID: 14758}
     - Class: 114
-      Script: {instanceID: 14764}
+      Script: {instanceID: 14766}
     - Class: 114
-      Script: {instanceID: 14780}
-    - Class: 114
-      Script: {instanceID: 14816}
+      Script: {instanceID: 14782}
     - Class: 114
       Script: {instanceID: 14818}
     - Class: 114
-      Script: {instanceID: 14898}
+      Script: {instanceID: 14820}
+    - Class: 114
+      Script: {instanceID: 14900}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -324,25 +325,25 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13178}
     - Class: 114
-      Script: {instanceID: 13580}
+      Script: {instanceID: 13582}
     - Class: 114
-      Script: {instanceID: 13604}
+      Script: {instanceID: 13606}
     - Class: 114
-      Script: {instanceID: 13720}
+      Script: {instanceID: 13722}
     - Class: 114
-      Script: {instanceID: 13872}
+      Script: {instanceID: 13874}
     - Class: 114
-      Script: {instanceID: 13988}
+      Script: {instanceID: 13990}
     - Class: 114
-      Script: {instanceID: 14108}
+      Script: {instanceID: 14110}
     - Class: 114
-      Script: {instanceID: 14434}
+      Script: {instanceID: 14436}
     - Class: 114
-      Script: {instanceID: 14626}
+      Script: {instanceID: 14628}
     - Class: 114
-      Script: {instanceID: 14692}
+      Script: {instanceID: 14694}
     - Class: 114
-      Script: {instanceID: 14818}
+      Script: {instanceID: 14820}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -372,11 +373,17 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 82
       Script: {instanceID: 0}
     - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -395,9 +402,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13178}
     - Class: 114
-      Script: {instanceID: 14108}
+      Script: {instanceID: 13492}
     - Class: 114
-      Script: {instanceID: 14818}
+      Script: {instanceID: 14110}
+    - Class: 114
+      Script: {instanceID: 14820}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -645,7 +654,7 @@ ScriptsOnlyBuild:
     className: SignalAsset
   - hash:
       serializedVersion: 2
-      Hash: ca0f640d46566221f71eaed1be4f0449
+      Hash: 1c93c6bdeb619d50683af8b0c2a991ca
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: OpenSceneTextManager
@@ -1153,6 +1162,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: triggerAreaScript
+  - hash:
+      serializedVersion: 2
+      Hash: d2e88d467c06eb34cccb03fe6d330e8d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlanetVisibility
   - hash:
       serializedVersion: 2
       Hash: 11319334e5365797f8056694f9b5dae4
@@ -1788,4 +1803,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Opening.unity
   - Assets/Scenes/Game.unity
-  playerPath: D:/Unity Saves/2DMobileGame/Builds/1.1.apk
+  playerPath: D:/Unity Saves/2DMobileGame/Builds/1.2.apk
