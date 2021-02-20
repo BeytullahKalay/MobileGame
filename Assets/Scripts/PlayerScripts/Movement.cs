@@ -201,7 +201,7 @@ public class Movement : MonoBehaviour
                 x0[i] = x1[i] = y0[i] = y1[i] = 0;
 
 
-                if (touch_pos[i].x > 0.5f)
+                if (touch_pos[i].x > 0.5f && !inDialogue())
                 {
 
                     #region Jump Input
@@ -354,7 +354,9 @@ public class Movement : MonoBehaviour
             return npc.dialogueActive();
         }
         else
+        {
             return false;
+        }
     }
 
     private void OnTriggerStay2D(Collider2D collision)
