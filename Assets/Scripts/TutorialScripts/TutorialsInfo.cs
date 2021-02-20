@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class TutorialsInfo : MonoBehaviour
 {
@@ -14,7 +12,5 @@ public class TutorialsInfo : MonoBehaviour
 
         if (!_infoSceneCam.GetComponent<CamTransitionScript>().activeScene && _infoShowed)
             this.gameObject.SetActive(false);
-
-
     }
 }

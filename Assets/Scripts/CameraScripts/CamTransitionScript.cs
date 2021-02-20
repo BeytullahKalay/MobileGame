@@ -18,9 +18,7 @@ public class CamTransitionScript : MonoBehaviour
     {
         if (Physics2D.OverlapBox(transform.position, cuberVectors, 0f, LayerMask.GetMask("Player"))
         || Physics2D.OverlapBox(transform.position, cuberVectors, 0f, LayerMask.GetMask("Hurted")))
-        {
             playerInRange = true;
-        }
         else
             playerInRange = false;
     }
@@ -29,9 +27,7 @@ public class CamTransitionScript : MonoBehaviour
     {
         if (Physics2D.OverlapBox(transform.position, cuberVectors, 0f, LayerMask.GetMask("Player"))
         || Physics2D.OverlapBox(transform.position, cuberVectors, 0f, LayerMask.GetMask("Hurted")))
-        {
             playerInRange = true;
-        }
         else
             playerInRange = false;
 
@@ -39,9 +35,7 @@ public class CamTransitionScript : MonoBehaviour
         cuberVectors = new Vector3(x, y, z);
 
         if (playerInRange)
-        {
             camPosIter.transform.position = Vector3.MoveTowards(camPosIter.transform.position, this.gameObject.transform.position, cameMoveSpeed);
-        }
         else
             activeScene = false;
 
@@ -52,9 +46,7 @@ public class CamTransitionScript : MonoBehaviour
         }
 
         if (!playerInRange && activeScene)
-        {
             timeManager.DoSlowmotion();
-        }
 
     }
 
