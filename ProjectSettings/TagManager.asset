@@ -18,6 +18,7 @@ TagManager:
   - Spike
   - canDisable
   - Coin
+  - Ruby
   layers:
   - Default
   - TransparentFX

@@ -347,7 +347,7 @@ public class Movement : MonoBehaviour
     }
 
 
-    private bool inDialogue()
+    public bool inDialogue()
     {
         if (npc != null)
         {

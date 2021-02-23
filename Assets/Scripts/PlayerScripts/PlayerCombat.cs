@@ -100,11 +100,12 @@ public class PlayerCombat : MonoBehaviour
     {
         if (Time.time >= attackInputTimeCounter && attackCheck)
         {
-            attackCheck = false;
-            if (!comingJumpInput && !comingDashInput && !comingSpawnBoxInput)
+            if (!comingJumpInput && !comingDashInput && !comingSpawnBoxInput && !GetComponent<Movement>().inDialogue())
                 canAttack = true;
             else
                 canAttack = false;
+
+            attackCheck = false;
         }
 
         if (canAttack)

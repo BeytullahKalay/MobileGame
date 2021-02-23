@@ -83,6 +83,7 @@
     <Compile Include="Assets\Scripts\DialogueSystem\DialogueLine.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem\NPC_Controller.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem\NPC_Flip.cs" />
+    <Compile Include="Assets\Scripts\DialogueSystem\NPC_InfoText.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\BatScripts\BatAI.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\BatScripts\BatTriggerAreaScript.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\BatScripts\Bat_HealthSystem.cs" />

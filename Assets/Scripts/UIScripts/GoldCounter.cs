@@ -17,13 +17,13 @@ public class GoldCounter : MonoBehaviour
         scoreText.text = countGold.ToString();
     }
 
-    public void increaseTheScore()
+    public void increaseTheScore(int value)
     {
-        countGold++;
+        countGold+= value;
     }
 
-    public void decreaseTheScore()
+    public void decreaseTheScore(int value)
     {
-        countGold--;
+        countGold -= value; ;
     }
 }
