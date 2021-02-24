@@ -24,6 +24,7 @@ public class MainMenuScript : MonoBehaviour
 
     public void PlayGame() //NewGame
     {
+        PlayerPrefs.SetInt("info", 0);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //loading next scene
         gm.lastCheckPointPos = startPos.position;
     }

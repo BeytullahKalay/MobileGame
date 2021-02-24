@@ -1,11 +1,9 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Box : MonoBehaviour
 {
 
-    Rigidbody2D rb;
+    private Rigidbody2D rb;
     public int Damage = 100;
     public float velocityLimitForGivingDamage = 5f;
 

@@ -8,9 +8,10 @@ public class TutorialsInfo : MonoBehaviour
     private void Update()
     {
         if (_infoSceneCam.GetComponent<CamTransitionScript>().activeScene)
-            _infoShowed = true;
+            PlayerPrefs.SetInt("info", 1);
 
-        if (!_infoSceneCam.GetComponent<CamTransitionScript>().activeScene && _infoShowed)
-            this.gameObject.SetActive(false);
+        if (PlayerPrefs.GetInt("info") == 1 && !_infoSceneCam.GetComponent<CamTransitionScript>().activeScene)
+            Destroy(gameObject);
+        
     }
 }

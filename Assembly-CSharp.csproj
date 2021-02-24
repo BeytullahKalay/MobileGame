@@ -103,11 +103,13 @@
     <Compile Include="Assets\Scripts\EnemiesScripts\SlimeScript\GreenSlimePatrol.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\SlimeScript\RedSlimeAI.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\SlimeScript\SlimeAnimatorController.cs" />
+    <Compile Include="Assets\Scripts\GameMasterScript\BoxDarkSceneMat.cs" />
     <Compile Include="Assets\Scripts\GameMasterScript\CheckPoint\CheckPoint.cs" />
     <Compile Include="Assets\Scripts\GameMasterScript\GameMaster.cs" />
     <Compile Include="Assets\Scripts\GateScripts\GateScript.cs" />
     <Compile Include="Assets\Scripts\GoldScripts\CoinScript.cs" />
     <Compile Include="Assets\Scripts\MovingPlatformScript\MovingPlatform.cs" />
+    <Compile Include="Assets\Scripts\OpenMenuTimeSetterScript\TimeSetter.cs" />
     <Compile Include="Assets\Scripts\PlanetVisibilityScripts\PlanetVisibility.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\GoldAndCheckPoints.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\HurtForceVariables.cs" />
