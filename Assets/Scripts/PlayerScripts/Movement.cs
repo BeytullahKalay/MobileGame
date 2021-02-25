@@ -1,13 +1,5 @@
-﻿//using System.Collections;
-using System.Collections.Generic;
-//using System.IO.IsolatedStorage;
-using UnityEditor;
-//using UnityEditor.UI;
-using UnityEngine.UI;
+﻿using System.Collections.Generic;
 using UnityEngine;
-//using UnityEngine.EventSystems;
-//using System.Xml.Schema;
-//using System.CodeDom;
 
 public class Movement : MonoBehaviour
 {
@@ -22,6 +14,8 @@ public class Movement : MonoBehaviour
     public Joystick joystick;
     public float joystickSensivitiy = 0.2f;
     [HideInInspector]public bool canMove = true;
+    [HideInInspector] public bool facingRight = true;
+    private bool canFlip = true;
     #endregion
 
     #region Jump Definations
@@ -42,6 +36,7 @@ public class Movement : MonoBehaviour
     public float dashSpeed;
     public float dashSensitivity = 60;
     public float dashCoolDown;
+    bool dashStarted = false;
     #endregion
 
     #region Better Jump Definations
@@ -81,20 +76,19 @@ public class Movement : MonoBehaviour
     private bool canTalkWithNPC = true;
     #endregion
 
+    #region Box Ability Accesibility
+    private GameMaster _gm;
+    #endregion
 
-    [HideInInspector] public bool facingRight = true;
-    private bool canFlip = true;
+    private PlayerCombat playerCombatScript;
 
-    PlayerCombat playerCombatScript;
-
-    bool dashStarted = false;
 
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         playerCombatScript = GetComponent<PlayerCombat>();
-
+        _gm = FindObjectOfType<GameMaster>();
         dashTimeCounter = totalDashTime;
     }
 
@@ -255,7 +249,7 @@ public class Movement : MonoBehaviour
 
                     #region BOX SPAWN
                     // >>>>>>>>>>>>>>>>>>   BOX SPAWN    <<<<<<<<<<<<<<<<<<<<<<<<<<<
-                    if (touch[i].deltaPosition.y < -spawnBoxSensitivity )
+                    if (touch[i].deltaPosition.y < -spawnBoxSensitivity && _gm.GetComponent<AbilityHolder>().BoxAbilityActive())
                     {
                         if (spawnBoxTime_Counter <= 0)
                         {

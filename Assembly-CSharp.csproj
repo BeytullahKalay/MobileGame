@@ -71,6 +71,8 @@
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
+    <Compile Include="Assets\Scripts\AbilityControl\AbilityController.cs" />
+    <Compile Include="Assets\Scripts\AbilityControl\AbilityHolder.cs" />
     <Compile Include="Assets\Scripts\AudioScripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\AudioScripts\Sound.cs" />
     <Compile Include="Assets\Scripts\BoxScripts\Box.cs" />
@@ -127,6 +129,7 @@
     <Compile Include="Assets\Scripts\TimeManagerScript\TimeManagerScript.cs" />
     <Compile Include="Assets\Scripts\TutorialScripts\TutorialsInfo.cs" />
     <Compile Include="Assets\Scripts\UIButtonScript\MainMenuScript.cs" />
+    <Compile Include="Assets\Scripts\UIScripts\CooldownsInvis.cs" />
     <Compile Include="Assets\Scripts\UIScripts\GoldCounter.cs" />
     <Compile Include="Assets\Scripts\UIScripts\OpenSceneTextManager.cs" />
     <Compile Include="Assets\Scripts\UIScripts\PauseMenu.cs" />

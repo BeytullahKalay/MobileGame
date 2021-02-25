@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class GameMaster : MonoBehaviour
 {
@@ -24,10 +23,10 @@ public class GameMaster : MonoBehaviour
 
     private void Update()
     {
-        Scene currentScene = SceneManager.GetActiveScene();
-        if (currentScene.buildIndex == 2)
-        {
+        if (PlayerPrefs.GetInt("GameStarted") == 1)
             _gameStarted = true;
-        }
+        else
+            _gameStarted = false;
+
     }
 }
