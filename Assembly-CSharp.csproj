@@ -78,6 +78,8 @@
     <Compile Include="Assets\Scripts\CameraScripts\CamTransitionScript.cs" />
     <Compile Include="Assets\Scripts\CanvasHeartScript\Heart.cs" />
     <Compile Include="Assets\Scripts\Core\SoundManager.cs" />
+    <Compile Include="Assets\Scripts\CutScenesLoadScripts\CutScene.cs" />
+    <Compile Include="Assets\Scripts\CutScenesLoadScripts\CutSceneHolder.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem\DialogueBaseClass.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem\DialogueHolder.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem\DialogueLine.cs" />

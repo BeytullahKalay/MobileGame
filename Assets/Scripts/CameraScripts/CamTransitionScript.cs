@@ -4,7 +4,7 @@
 public class CamTransitionScript : MonoBehaviour
 {
     public Transform camPosIter;
-    public Vector3 cuberVectors;
+    private Vector3 cuberVectors;
     public float x, y, z;
     public TimeManagerScript timeManager;
 
