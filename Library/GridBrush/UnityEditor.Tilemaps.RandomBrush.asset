@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Random Brush
   m_EditorClassIdentifier: 
   m_Cells:
-  - m_Tile: {fileID: 11400000, guid: 1909a1e143c0f2944b8619c6e630634c, type: 2}
+  - m_Tile: {fileID: 11400000, guid: 9bcaf96fb71c1fe42a9b9d82937bbcfd, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -32,7 +32,7 @@ MonoBehaviour:
       e32: 0
       e33: 1
     m_Color: {r: 1, g: 1, b: 1, a: 1}
-  - m_Tile: {fileID: 11400000, guid: 35a29ea66707b1847ad0d710fb1c8852, type: 2}
+  - m_Tile: {fileID: 11400000, guid: a23c4efc5ff8a984f9e8b0e8b44f149f, type: 2}
     m_Matrix:
       e00: 1
       e01: 0
@@ -51,14 +51,35 @@ MonoBehaviour:
       e32: 0
       e33: 1
     m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Size: {x: 1, y: 2, z: 1}
+  - m_Tile: {fileID: 11400000, guid: 08b0eeddecd0d514a9ff13b235d41b7a, type: 2}
+    m_Matrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Size: {x: 1, y: 3, z: 1}
   m_Pivot: {x: 0, y: 0, z: 0}
   m_CanChangeZPosition: 0
   randomTileSetSize: {x: 1, y: 1, z: 1}
   randomTileSets:
   - randomTiles:
-    - {fileID: 11400000, guid: 1909a1e143c0f2944b8619c6e630634c, type: 2}
+    - {fileID: 11400000, guid: 9bcaf96fb71c1fe42a9b9d82937bbcfd, type: 2}
   - randomTiles:
-    - {fileID: 11400000, guid: 35a29ea66707b1847ad0d710fb1c8852, type: 2}
+    - {fileID: 11400000, guid: a23c4efc5ff8a984f9e8b0e8b44f149f, type: 2}
+  - randomTiles:
+    - {fileID: 11400000, guid: 08b0eeddecd0d514a9ff13b235d41b7a, type: 2}
   pickRandomTiles: 1
   addToRandomTiles: 0

@@ -14,7 +14,5 @@ public class CooldownsInvis : MonoBehaviour
             _boxObject_UI.SetActive(true);
         else
             _boxObject_UI.SetActive(false);
-
-
     }
 }

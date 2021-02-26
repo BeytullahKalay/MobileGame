@@ -72,7 +72,6 @@
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs" />
     <Compile Include="Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs" />
     <Compile Include="Assets\Scripts\AbilityControl\AbilityController.cs" />
-    <Compile Include="Assets\Scripts\AbilityControl\AbilityHolder.cs" />
     <Compile Include="Assets\Scripts\AudioScripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\AudioScripts\Sound.cs" />
     <Compile Include="Assets\Scripts\BoxScripts\Box.cs" />

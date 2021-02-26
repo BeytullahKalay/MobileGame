@@ -76,10 +76,6 @@ public class Movement : MonoBehaviour
     private bool canTalkWithNPC = true;
     #endregion
 
-    #region Box Ability Accesibility
-    private GameMaster _gm;
-    #endregion
-
     private PlayerCombat playerCombatScript;
 
 
@@ -88,7 +84,6 @@ public class Movement : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         playerCombatScript = GetComponent<PlayerCombat>();
-        _gm = FindObjectOfType<GameMaster>();
         dashTimeCounter = totalDashTime;
     }
 
@@ -249,7 +244,7 @@ public class Movement : MonoBehaviour
 
                     #region BOX SPAWN
                     // >>>>>>>>>>>>>>>>>>   BOX SPAWN    <<<<<<<<<<<<<<<<<<<<<<<<<<<
-                    if (touch[i].deltaPosition.y < -spawnBoxSensitivity && _gm.GetComponent<AbilityHolder>().BoxAbilityActive())
+                    if (touch[i].deltaPosition.y < -spawnBoxSensitivity && CheckBoxAbilityCanUse())
                     {
                         if (spawnBoxTime_Counter <= 0)
                         {
@@ -384,6 +379,14 @@ public class Movement : MonoBehaviour
             FindObjectOfType<AudioManager>().Play("DashSound");
             dashStarted = true;
         }
+    }
+
+    private bool CheckBoxAbilityCanUse()
+    {
+        if (PlayerPrefs.GetInt("BoxAbilityOpen") == 1)
+            return true;
+        else
+            return false;
     }
 
 
