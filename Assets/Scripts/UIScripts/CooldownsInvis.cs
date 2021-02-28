@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class CooldownsInvis : MonoBehaviour
 {
@@ -14,5 +12,10 @@ public class CooldownsInvis : MonoBehaviour
             _boxObject_UI.SetActive(true);
         else
             _boxObject_UI.SetActive(false);
+
+        if (PlayerPrefs.GetInt("DashAbilityOpen") == 1)
+            _dashObject_UI.SetActive(true);
+        else
+            _dashObject_UI.SetActive(false);
     }
 }

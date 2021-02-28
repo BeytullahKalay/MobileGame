@@ -118,13 +118,16 @@ public class Movement : MonoBehaviour
 
     private void AttemToDash()
     {
-        if (Time.time >= lastDashTime + dashCoolDown)
+        if (CheckDashAbilityCanUse())
         {
-            isDashing = true;
-            dashTimeCounter = totalDashTime;
-            lastDashTime = Time.time;
+            if (Time.time >= lastDashTime + dashCoolDown)
+            {
+                isDashing = true;
+                dashTimeCounter = totalDashTime;
+                lastDashTime = Time.time;
 
-            playerCombatScript.comingDashInput = true; //checking dash input for attack
+                playerCombatScript.comingDashInput = true; //checking dash input for attack
+            }
         }
     }
 
@@ -384,6 +387,14 @@ public class Movement : MonoBehaviour
     private bool CheckBoxAbilityCanUse()
     {
         if (PlayerPrefs.GetInt("BoxAbilityOpen") == 1)
+            return true;
+        else
+            return false;
+    }
+
+    private bool CheckDashAbilityCanUse()
+    {
+        if (PlayerPrefs.GetInt("DashAbilityOpen") == 1)
             return true;
         else
             return false;

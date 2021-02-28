@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class MainMenuScript : MonoBehaviour
@@ -27,6 +25,7 @@ public class MainMenuScript : MonoBehaviour
         PlayerPrefs.SetInt("GameStarted", 1);
         PlayerPrefs.SetInt("info", 0); //Show info first Time
         PlayerPrefs.SetInt("BoxAbilityOpen", 0); //Closing box ability for first enterence
+        PlayerPrefs.SetInt("DashAbilityOpen", 0);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //loading next scene
         gm.lastCheckPointPos = startPos.position;
     }

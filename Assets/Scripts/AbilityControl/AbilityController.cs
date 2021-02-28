@@ -2,20 +2,16 @@
 
 public class AbilityController : MonoBehaviour
 {
-    [Header ("Dialogue Box")]
+    [Header ("Open Box Ability Dialogue")]
     public GameObject _openBoxAbilityDialogue;
-
-    private void Start()
-    {
-
-    }
+    public GameObject _openDashAbilityDialogue;
 
     void Update()
     {
         if (_openBoxAbilityDialogue.active)
-        {
             PlayerPrefs.SetInt("BoxAbilityOpen", 1);
-            Debug.Log("Activated");
-        }
+
+        if (_openDashAbilityDialogue.active)
+            PlayerPrefs.SetInt("DashAbilityOpen",1);
     }
 }
