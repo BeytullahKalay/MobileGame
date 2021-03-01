@@ -57,12 +57,14 @@ public class GoldAndCheckPoints : MonoBehaviour
             {
                 Destroy(Coins[0]);
                 Coins.Remove(Coins[0]);
+                Resources.UnloadUnusedAssets();
             }
 
             while (Rubies.Count > 0)
             {
                 Destroy(Rubies[0]);
                 Rubies.Remove(Rubies[0]);
+                Resources.UnloadUnusedAssets();
             }
         }
     }

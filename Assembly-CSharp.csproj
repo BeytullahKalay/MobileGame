@@ -761,6 +761,9 @@
     <Reference Include="Unity.2D.Path.Editor">
       <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.EditorCoroutines.Editor">
+      <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
       <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
@@ -769,6 +772,9 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.MemoryProfiler">
+      <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/Unity.MemoryProfiler.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
@@ -838,6 +844,9 @@
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.MemoryProfiler.Editor">
+      <HintPath>D:/Unity Saves/2DMobileGame/Library/ScriptAssemblies/Unity.MemoryProfiler.Editor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
