@@ -136,10 +136,13 @@ public class Movement : MonoBehaviour
         if (isDashing)
         {
             lastDashTime = Time.time;
+
+            #region Dash Facing
             if (dashDirection > 0 && facingRight == false)
                 Flip();
             else if (dashDirection < 0 && facingRight == true)
                 Flip();
+            #endregion
 
 
             if (dashTimeCounter > 0)
@@ -236,9 +239,7 @@ public class Movement : MonoBehaviour
                         {
                             dashTimeCounter -= Time.deltaTime;
 
-                            if (dashDirection == 1)
-                                AttemToDash();
-                            else if (dashDirection == -1)
+                            if (dashDirection == 1 || dashDirection == -1)
                                 AttemToDash();
                         }
                     }

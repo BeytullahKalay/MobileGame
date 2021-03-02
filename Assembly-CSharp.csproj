@@ -101,7 +101,6 @@
     <Compile Include="Assets\Scripts\EnemiesScripts\RobotScripts\RobotPatrol.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\RobotScripts\hitBoxScript.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\RobotScripts\triggerAreaScript.cs" />
-    <Compile Include="Assets\Scripts\EnemiesScripts\SlimeScript\BlueSlime\BlueSlimeHurtColor.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\SlimeScript\BlueSlime\BlueSlimePatrol.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\SlimeScript\GreenSlimePatrol.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\SlimeScript\RedSlimeAI.cs" />
