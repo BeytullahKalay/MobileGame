@@ -6,7 +6,7 @@ public class CutSceneHolder : MonoBehaviour
 {
     public GameObject[] _cutScenes;
     private bool _touchTaken;
-    private bool _mainSceneExist;
+    //private bool _mainSceneExist;
 
     void Update()
     {
