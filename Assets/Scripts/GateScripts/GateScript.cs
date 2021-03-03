@@ -1,33 +1,35 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿ using UnityEngine;
 
 public class GateScript : MonoBehaviour
 {
-    private Animator anim;
-    public GameObject ButtonObject;
-    private ButtonScript button;
-    public bool reverseButtonCommand;
-    private bool gateInput;
+    public Transform _pos1;
+    public Transform _pos2;
+    public GameObject _buttonGameObject;
+
+    [SerializeField] private float _moveSpeed = 1f;
 
     private void Start()
     {
-        anim = GetComponent<Animator>();
-        button = ButtonObject.GetComponent<ButtonScript>();
+        transform.position = _pos1.position;
     }
 
-
-    private void LateUpdate()
+    private void Update()
     {
-        if (reverseButtonCommand)
-            gateInput = !button.isPressed;
-        else
-            gateInput = button.isPressed;
+        GateMovement();
+    }
 
-        if (gateInput)
-            anim.SetBool("ButtonPressed", true);
+    private void GateMovement()
+    {
+        if (_buttonGameObject.GetComponent<ButtonScript>()._buttonPressed)
+            transform.position = Vector3.MoveTowards(transform.position, _pos2.position, _moveSpeed * Time.deltaTime);
         else
-            anim.SetBool("ButtonPressed", false);
+            transform.position = Vector3.MoveTowards(transform.position, _pos1.position, _moveSpeed * Time.deltaTime);
 
+    }
+
+    [ExecuteAlways]
+    private void OnDrawGizmos()
+    {
+        Gizmos.DrawLine(_pos1.position, _pos2.position);
     }
 }

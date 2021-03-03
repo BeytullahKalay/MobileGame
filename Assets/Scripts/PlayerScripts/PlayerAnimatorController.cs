@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using UnityEngine.UI;
+
 
 public class PlayerAnimatorController : MonoBehaviour
 {
@@ -8,6 +8,8 @@ public class PlayerAnimatorController : MonoBehaviour
     Animator anim;
     Movement MovementScript;
     Rigidbody2D rb;
+
+    public float _velocityControlValue;
 
 
     public ParticleSystem Attack1_Dust;
@@ -28,12 +30,12 @@ public class PlayerAnimatorController : MonoBehaviour
         else
             anim.SetBool("isRunning", true);
 
-        if (rb.velocity.y > 2 && !MovementScript.isGrounded)                      //Jumping
+        if (rb.velocity.y > _velocityControlValue && !MovementScript.isGrounded)                      //Jumping
             anim.SetBool("isJumping", true);
         else
             anim.SetBool("isJumping", false);
 
-        if (rb.velocity.y < -2 && !MovementScript.isGrounded)                      //Falling
+        if (rb.velocity.y < -_velocityControlValue && !MovementScript.isGrounded)                      //Falling
             anim.SetBool("isFalling", true);
         else
             anim.SetBool("isFalling", false);

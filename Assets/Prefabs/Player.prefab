@@ -261,6 +261,7 @@ MonoBehaviour:
   joystick: {fileID: 0}
   joystickSensivitiy: 0.07
   canMove: 1
+  facingRight: 1
   jumpForce: 12
   groundCheck: {fileID: 9581156111647699}
   checkRadius: 0.145
@@ -285,7 +286,6 @@ MonoBehaviour:
   SpawnBox_Position: {fileID: 424062801}
   DestroyBox_Time: 5
   spawnBoxTime_Counter: 0
-  facingRight: 1
 --- !u!114 &9581155222751405
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -298,6 +298,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 299b0aa7cd5c8df488582a7de3583189, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _velocityControlValue: 3
   Attack1_Dust: {fileID: 9581155341033597}
 --- !u!114 &9581155222751406
 MonoBehaviour:

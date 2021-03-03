@@ -1,66 +1,66 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class ButtonScript : MonoBehaviour
 {
-    private Animator anim;
-    public float waitTime;
-    private float waitTime_Counter;
-    private bool starCounter;
-    [HideInInspector] public bool isPressed;
+    public Transform _startPos;
+    public Transform _pressedPoss;
+    [SerializeField] private float _moveSpeed = 2f;
+
+    private bool _isTouching;
+    public float _touchTime;
+    private float _nextCheckTime = -10f;
+
+    public bool _buttonPressed;
 
     private void Start()
     {
-        anim = GetComponent<Animator>();
-        waitTime_Counter = waitTime;
+        transform.position = _startPos.position;
     }
 
-    private void LateUpdate()
+    private void Update()
     {
-        if (starCounter)
+        TimeCountIssues();
+        ButtonMovement();
+
+        if (transform.position == _pressedPoss.position)
+            _buttonPressed = true;
+        else
+            _buttonPressed = false;
+
+    }
+
+    private void TimeCountIssues()
+    {
+        if (_isTouching)
         {
-            waitTime_Counter -= Time.deltaTime;
-            if (waitTime_Counter <= 0)
-            {
-                anim.SetBool("Press", false);
-            }
+            _nextCheckTime = Time.time + _touchTime;
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void ButtonMovement()
     {
-        if (collision.collider.tag == "Player" || collision.collider.tag == "Box")
-        {
-            anim.SetBool("Press", true);
-            waitTime_Counter = waitTime;
-            starCounter = false;
-        }
+        if (Time.time < _nextCheckTime)
+            transform.position = Vector3.MoveTowards(transform.position, _pressedPoss.position, _moveSpeed * Time.deltaTime);
+        else
+            transform.position = Vector3.MoveTowards(transform.position, _startPos.position, _moveSpeed * Time.deltaTime);
     }
 
     private void OnCollisionStay2D(Collision2D collision)
     {
         if (collision.collider.tag == "Player" || collision.collider.tag == "Box")
-        {
-            anim.SetBool("Press", true);
-            waitTime_Counter = waitTime;
-            starCounter = false;
-        }
+            _isTouching = true;
     }
 
     private void OnCollisionExit2D(Collision2D collision)
     {
         if (collision.collider.tag == "Player" || collision.collider.tag == "Box")
-            starCounter = true;
+            _isTouching = false;
     }
 
-    public void setButtonPressedTrue()
-    {
-        isPressed = true;
-    }
 
-    public void setButtonPressedFalse()
+    [ExecuteAlways]
+    private void OnDrawGizmos()
     {
-        isPressed = false;
+        Gizmos.DrawLine(_startPos.position, _pressedPoss.position);
     }
 }
