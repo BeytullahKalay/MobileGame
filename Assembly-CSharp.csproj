@@ -110,6 +110,8 @@
     <Compile Include="Assets\Scripts\GameMasterScript\GameMaster.cs" />
     <Compile Include="Assets\Scripts\GateScripts\GateScript.cs" />
     <Compile Include="Assets\Scripts\GoldScripts\CoinScript.cs" />
+    <Compile Include="Assets\Scripts\LevelInteractionScripts\CutScene2ColliderScript.cs" />
+    <Compile Include="Assets\Scripts\LevelInteractionScripts\DeactivateObject.cs" />
     <Compile Include="Assets\Scripts\MovingPlatformScript\MovingPlatform.cs" />
     <Compile Include="Assets\Scripts\OpenMenuTimeSetterScript\TimeSetter.cs" />
     <Compile Include="Assets\Scripts\PlanetVisibilityScripts\PlanetVisibility.cs" />

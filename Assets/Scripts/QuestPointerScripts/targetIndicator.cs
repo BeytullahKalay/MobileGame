@@ -1,16 +1,29 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class targetIndicator : MonoBehaviour
 {
-    public Transform target;
+    public GameObject target;
     public float HideDistance;
+    private Transform _targetTransform;
+    public GameObject _dialog;
+    private bool _dialogActivated;
+
+    private void Start()
+    {
+        if (target !=null && target.active)
+        {
+            _targetTransform = target.transform;
+        }
+    }
     private void Update()
     {
-        if (target != null)
+        if (_dialog.active)
+            _dialogActivated = true;
+
+        if (target != null && target.active && _dialogActivated)
         {
-            var dir = target.position - transform.position;
+            gameObject.SetActive(true);
+            var dir = _targetTransform.position - transform.position;
             if (dir.magnitude < HideDistance)
             {
                 SetChildrenActive(false);
@@ -26,7 +39,10 @@ public class targetIndicator : MonoBehaviour
             }
         }
         else
+        {
+            gameObject.SetActive(false);
             return;
+        }
 
     }
 

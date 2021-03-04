@@ -7,10 +7,10 @@ public class ButtonScript : MonoBehaviour
     [SerializeField] private float _moveSpeed = 2f;
 
     private bool _isTouching;
-    public float _touchTime;
+    public float _buttonUpTime;
     private float _nextCheckTime = -10f;
 
-    public bool _buttonPressed;
+    [HideInInspector] public bool _buttonPressed;
 
     private void Start()
     {
@@ -33,7 +33,7 @@ public class ButtonScript : MonoBehaviour
     {
         if (_isTouching)
         {
-            _nextCheckTime = Time.time + _touchTime;
+            _nextCheckTime = Time.time + _buttonUpTime;
         }
     }
 
