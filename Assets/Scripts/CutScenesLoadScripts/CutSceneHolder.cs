@@ -1,17 +1,31 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class CutSceneHolder : MonoBehaviour
 {
     public GameObject[] _cutScenes;
-    private bool _touchTaken;
-    //private bool _mainSceneExist;
+    [HideInInspector] public bool _touchTaken;
 
     void Update()
     {
         TakeFirstTouch();
+        MainScene();
+       
+    }
 
+    private void TakeFirstTouch()
+    {
+        for (int i = 0; i < _cutScenes.Length; i++)
+        {
+            if (_cutScenes[i].GetComponent<CutScene>()._firstTocuh)
+            {
+                _touchTaken = true;
+                continue;
+            }
+        }
+    }
+
+    private void MainScene()
+    {
         if (_touchTaken)
         {
             for (int i = 0; i < _cutScenes.Length; i++)
@@ -53,18 +67,6 @@ public class CutSceneHolder : MonoBehaviour
                         }
                     }
                 }
-            }
-        }
-    }
-
-    private void TakeFirstTouch()
-    {
-        for (int i = 0; i < _cutScenes.Length; i++)
-        {
-            if (_cutScenes[i].GetComponent<CutScene>()._firstTocuh)
-            {
-                _touchTaken = true;
-                continue;
             }
         }
     }
