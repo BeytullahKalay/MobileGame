@@ -86,7 +86,7 @@ public class PlayerCombat : MonoBehaviour
 
     public void AttemptAttack() //Button Funciton
     {
-        if (!playerStillAttackAnim)
+        if (!playerStillAttackAnim && AttackAbilityCheck())
         {
             attackInputTimeCounter = Time.time + attacInputTime; // Other inputs Check time
             attackCheck = true;
@@ -113,6 +113,14 @@ public class PlayerCombat : MonoBehaviour
             canAttack = false;
             animatiorController.PlayAttackAnim();
         }
+    }
+
+    private bool AttackAbilityCheck()
+    {
+        if (PlayerPrefs.GetInt("AttackAbilityOpen") == 1)
+            return true;
+        else
+            return false;
     }
 
 }

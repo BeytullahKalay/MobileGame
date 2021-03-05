@@ -23,11 +23,14 @@ public class MainMenuScript : MonoBehaviour
     public void PlayGame() //NewGame
     {
         PlayerPrefs.SetInt("GameStarted", 1);
-        PlayerPrefs.SetInt("info", 0); // movement tutorial
+        PlayerPrefs.SetInt("AttackAbilityOpen",0);
         PlayerPrefs.SetInt("BoxAbilityOpen", 0); //Closing box ability for first enterence
         PlayerPrefs.SetInt("DashAbilityOpen", 0); //Closing dash ability for first enterence
+        PlayerPrefs.SetInt("info", 0); // movement tutorial
         PlayerPrefs.SetInt("boxInfo",0); // box ability tutorial
         PlayerPrefs.SetInt("dashInfo",0); // dash ability tutorial
+        PlayerPrefs.SetInt("attackInfo",0);
+
         gm.lastCheckPointPos = startPos.position; //Setting the player position for first entering
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //loading next scene
     }
