@@ -2014,7 +2014,7 @@ ScriptsOnlyBuild:
     className: Benchmark02
   - hash:
       serializedVersion: 2
-      Hash: 0dfcce0d94bede9b10041add1278fcc0
+      Hash: 7944c93be71f8abaeb10f5dd01d09f89
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Movement
@@ -2389,4 +2389,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/Opening.unity
   - Assets/Scenes/Game.unity
-  playerPath: D:/Unity Saves/2DMobileGame/Builds/2.2.apk
+  playerPath: D:/Unity Saves/2DMobileGame/Builds/2.3.apk
