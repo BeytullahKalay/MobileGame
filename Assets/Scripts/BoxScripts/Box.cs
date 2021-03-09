@@ -25,6 +25,7 @@ public class Box : MonoBehaviour
 
         if (collision.collider.tag == "Player")
             collision.transform.parent = this.gameObject.transform;
+            
 
         if (collision.collider.tag == "killZone")
         {
@@ -32,9 +33,20 @@ public class Box : MonoBehaviour
         }
 
     }
+
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if (collision.collider.tag == "Player")
+        {
+            collision.collider.GetComponentInParent<Movement>()._nonStraightBoxed = true;
+        }
+    }
     private void OnCollisionExit2D(Collision2D collision)
     {
         if (collision.collider.tag == "Player")
+        {
             collision.transform.parent = null;
+            collision.collider.GetComponentInParent<Movement>()._nonStraightBoxed = false;
+        }
     }
 }

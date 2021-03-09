@@ -24,6 +24,8 @@ public class Movement : MonoBehaviour
     public float checkRadius;
     [HideInInspector] public bool isGrounded;
     public LayerMask whatIsGround;
+
+    [HideInInspector] public bool _nonStraightBoxed;
     #endregion
 
     #region Dash Defiantions
@@ -312,7 +314,7 @@ public class Movement : MonoBehaviour
         #region Jumping
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, whatIsGround);
-        if (isGrounded)
+        if (isGrounded || _nonStraightBoxed)
             fallJumpInputTimer = totalFallJumpInputTime;
 
 

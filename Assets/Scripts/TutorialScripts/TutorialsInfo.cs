@@ -20,7 +20,5 @@ public class TutorialsInfo : MonoBehaviour
             if (PlayerPrefs.GetInt(_playerPrefName) == 1 && !_infoSceneCam.GetComponent<CamTransitionScript>().activeScene && _infoShowed)
                 Destroy(_infoGameObject);
         }
-
-        Debug.Log(PlayerPrefs.GetInt("AttackAbilityOpen"));
     }
 }

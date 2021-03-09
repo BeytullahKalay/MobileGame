@@ -46,6 +46,14 @@ public class EnemyColliderScript : MonoBehaviour
         {
             touchDamage = playerHealthSystem.maxHealt;
         }
+
+        if (gameObject.tag != "Spike")
+        {
+            if (GetComponent<EnemySlimeHealthSystem>().enemyisDead)
+            {
+                Destroy(this);
+            }
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
