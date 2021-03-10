@@ -10,6 +10,7 @@ public class GoldCounter : MonoBehaviour
     void Start()
     {
         scoreText = GetComponent<Text>();
+        countGold = PlayerPrefs.GetInt("Gold");
     }
 
     void Update()

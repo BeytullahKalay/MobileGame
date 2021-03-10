@@ -31,6 +31,7 @@ public class MainMenuScript : MonoBehaviour
         PlayerPrefs.SetInt("dashInfo",0); // dash ability tutorial
         PlayerPrefs.SetInt("attackInfo",0); // attack ability tutorial
         PlayerPrefs.SetInt("CutScene2Collider",0); // can pass level collider activated
+        PlayerPrefs.SetInt("Gold",0); //set gold count to 0 for new game
 
         gm.lastCheckPointPos = startPos.position; //Setting the player position for first entering
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //loading next scene

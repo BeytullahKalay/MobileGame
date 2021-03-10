@@ -75,6 +75,7 @@ public class Movement : MonoBehaviour
 
     #region Dialogue System Definations
     private NPC_Controller npc;
+    private Final_NPC_Controller _finalNPC;
     private bool canTalkWithNPC = true;
     #endregion
 
@@ -348,6 +349,10 @@ public class Movement : MonoBehaviour
         {
             return npc.dialogueActive();
         }
+        else if (_finalNPC != null)
+        {
+            return _finalNPC.dialogueActive();
+        }
         else
         {
             return false;
@@ -365,11 +370,21 @@ public class Movement : MonoBehaviour
                 canTalkWithNPC = false;
             }
         }
+        else if (collision.gameObject.tag == "FinalNPC")
+        {
+            _finalNPC = collision.gameObject.GetComponent<Final_NPC_Controller>();
+            if (Input.GetMouseButtonDown(0) && canTalkWithNPC)
+            {
+                _finalNPC.ActivateDialogue();
+                canTalkWithNPC = false;
+            }
+        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
         npc = null;
+        _finalNPC = null;
         canTalkWithNPC = true;
     }
 
@@ -402,6 +417,5 @@ public class Movement : MonoBehaviour
         else
             return false;
     }
-
 
 }

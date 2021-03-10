@@ -84,9 +84,6 @@
     <Compile Include="Assets\Scripts\DialogueSystem\DialogueBaseClass.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem\DialogueHolder.cs" />
     <Compile Include="Assets\Scripts\DialogueSystem\DialogueLine.cs" />
-    <Compile Include="Assets\Scripts\DialogueSystem\NPC_Controller.cs" />
-    <Compile Include="Assets\Scripts\DialogueSystem\NPC_Flip.cs" />
-    <Compile Include="Assets\Scripts\DialogueSystem\NPC_InfoText.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\BatScripts\BatAI.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\BatScripts\BatTriggerAreaScript.cs" />
     <Compile Include="Assets\Scripts\EnemiesScripts\BatScripts\Bat_HealthSystem.cs" />
@@ -113,6 +110,11 @@
     <Compile Include="Assets\Scripts\LevelInteractionScripts\CutScene2ColliderScript.cs" />
     <Compile Include="Assets\Scripts\LevelInteractionScripts\DeactivateObject.cs" />
     <Compile Include="Assets\Scripts\MovingPlatformScript\MovingPlatform.cs" />
+    <Compile Include="Assets\Scripts\NPCScripts\Activate_Final_NPC.cs" />
+    <Compile Include="Assets\Scripts\NPCScripts\Final_NPC_Controller.cs" />
+    <Compile Include="Assets\Scripts\NPCScripts\NPC_Controller.cs" />
+    <Compile Include="Assets\Scripts\NPCScripts\NPC_Flip.cs" />
+    <Compile Include="Assets\Scripts\NPCScripts\NPC_InfoText.cs" />
     <Compile Include="Assets\Scripts\OpenMenuTimeSetterScript\TimeSetter.cs" />
     <Compile Include="Assets\Scripts\PlanetVisibilityScripts\PlanetVisibility.cs" />
     <Compile Include="Assets\Scripts\PlayerScripts\GoldAndCheckPoints.cs" />

@@ -6,6 +6,10 @@ public class GoldAndCheckPoints : MonoBehaviour
     public GoldCounter counterScript;
     private List<GameObject> Coins;
     private List<GameObject> Rubies;
+
+    static private List<GameObject> _destroyedCoins;
+    static private List<GameObject> _destroyedRubies;
+
     [HideInInspector] public bool canDestroy;
     private bool decreased;
 
@@ -53,8 +57,10 @@ public class GoldAndCheckPoints : MonoBehaviour
 
         if (collision.gameObject.layer == 16) //Check Point Layer
         {
+            int _scoreTemp = PlayerPrefs.GetInt("Gold");
             while (Coins.Count > 0)
             {
+                _scoreTemp += 1;
                 Destroy(Coins[0]);
                 Coins.Remove(Coins[0]);
                 Resources.UnloadUnusedAssets();
@@ -62,10 +68,13 @@ public class GoldAndCheckPoints : MonoBehaviour
 
             while (Rubies.Count > 0)
             {
+                _scoreTemp += 10;
                 Destroy(Rubies[0]);
                 Rubies.Remove(Rubies[0]);
                 Resources.UnloadUnusedAssets();
             }
+            PlayerPrefs.SetInt("Gold", _scoreTemp);
         }
+
     }
 }

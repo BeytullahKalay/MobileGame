@@ -19,6 +19,7 @@ TagManager:
   - canDisable
   - Coin
   - Ruby
+  - FinalNPC
   layers:
   - Default
   - TransparentFX
