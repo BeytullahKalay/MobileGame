@@ -21,11 +21,9 @@ public class AttackTutorialInfo : MonoBehaviour
                 _infoGameObject.SetActive(true);
                 _infoShowed = true;
             }
+
             if (PlayerPrefs.GetInt(_playerPrefName) == 1 && !_infoSceneCam.GetComponent<CamTransitionScript>().activeScene && _infoShowed)
-            {
                 Destroy(_infoGameObject);
-                Debug.Log("destroyed");
-            }
         }
     }
 

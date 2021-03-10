@@ -13,9 +13,13 @@ public class NPC_Controller : MonoBehaviour
         {
             dialogue3.SetActive(true);
         }
+        //else if (PlayerPrefs.GetFloat("PosX") == -52.47 || PlayerPrefs.GetFloat("PosX") == -21)
+        //{
+
+        //}
         else
         {
-            if (goalObject != null && goalObject.active) //if player not have goal object
+            if (goalObject != null && goalObject.activeInHierarchy) //if player not have goal object
             {
                 dialogue1.SetActive(true);
             }

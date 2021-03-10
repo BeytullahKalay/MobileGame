@@ -9,7 +9,7 @@ public class DeactivateObject : MonoBehaviour
 
     private void Update()
     {
-        if (_dialog.active)
+        if (_dialog.activeInHierarchy)
             _dialogActivated = true;
 
         if (_dialogActivated && !_Scene.active)
